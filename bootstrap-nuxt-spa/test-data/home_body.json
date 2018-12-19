@@ -1,0 +1,153 @@
+
+    {
+      "_uid": "efd24357-8c32-445d-b30c-0f86a8afc5fb",
+      "icon": "",
+      "logo": "",
+      "text": "",
+      "image": "",
+      "width": {
+        "_uid": "f22c2d29-40d5-418f-9f99-d34daf18c5ca",
+        "large": "",
+        "small": "10",
+        "medium": "8",
+        "plugin": "example_plugin",
+        "xlarge": "",
+        "xsmall": "12"
+      },
+      "images": "",
+      "in_box": false,
+      "styles": "",
+      "buttons": [{
+        "_uid": "4e272c60-a59e-4c1d-b7bc-115b920588e6",
+        "link": {
+          "id": "",
+          "url": "#",
+          "_uid": "cd7950d2-2594-465b-adba-87e8c2f8de97",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "text": "Call to action",
+        "style": [],
+        "component": "button",
+        "is_inline": false,
+        "paragraph_style": [
+          "mt-5"
+        ]
+      }],
+      "headline": "Welcome to the Storyblok Demo",
+      "box_style": [],
+      "component": "call_to_action",
+      "row_style": [
+        "justify-content-center"
+      ],
+      "background": "//a.storyblok.com/f/43698/3000x2000/7696f16f6b/bg_c_1.svg",
+      "headline_2": "",
+      "bottom_body": [],
+      "subheadline": "",
+      "column_style": [
+        "text-center"
+      ],
+      "social_icons": [],
+      "icon_alt_text": "",
+      "section_style": [
+        "bg-dark",
+        "fdb-viewport"
+      ],
+      "image_position": "",
+      "container_style": [
+        "align-items-center",
+        "justify-content-center",
+        "d-flex"
+      ]
+    }
+
+    {
+      "_uid": "a9a5506c-ea27-48f6-8e5c-018e3d34ce02",
+      "icon": "",
+      "logo": "",
+      "text": "This demo website with content from Storyblok helps you to test out it's capabilities. You can play around with the user interface and checkout the code of this project at Github:\n\ngithub.com/storyblok/bootstrap-nuxt-demo",
+      "image": "",
+      "width": {
+        "_uid": "7046a2e0-9742-4b39-907b-9fafe92fdb3e",
+        "large": "",
+        "small": "6",
+        "medium": "",
+        "plugin": "example_plugin",
+        "xlarge": "",
+        "xsmall": "12"
+      },
+      "images": "",
+      "in_box": false,
+      "styles": "",
+      "buttons": [{
+        "_uid": "fea52cbf-4b2f-4967-b970-813a81908785",
+        "link": {
+          "id": "",
+          "url": "https://github.com/storyblok/bootstrap-nuxt-demo",
+          "_uid": "b396d19a-8c72-4056-9c7e-d055f7b4e378",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://github.com/storyblok/bootstrap-nuxt-demo"
+        },
+        "text": "Get Code on Github",
+        "style": [],
+        "component": "button",
+        "is_inline": false,
+        "paragraph_style": [
+          "mt-4",
+          "mt-sm-4"
+        ]
+      }],
+      "headline": "About this Demo",
+      "box_style": [],
+      "component": "call_to_action",
+      "row_style": [
+        "justify-content-center"
+      ],
+      "background": "",
+      "headline_2": "",
+      "bottom_body": [{
+        "_uid": "00ff1278-7751-4b52-bb71-d3366e9b5751",
+        "body": [{
+            "_uid": "5d23cdb2-7bc3-4f09-a57b-6a0677911bb9",
+            "icon": "//a.storyblok.com/f/43698/3000x3000/c744798edc/img_round.svg",
+            "text": "The project is open source and based on Bootstrap components.",
+            "headline": "Bootstrap",
+            "component": "feature"
+          },
+          {
+            "_uid": "e66ff4cf-46a0-423e-8edf-cee935701273",
+            "icon": "//a.storyblok.com/f/43698/3000x3000/c744798edc/img_round.svg",
+            "text": "This demo uses Nuxt.js but Storyblok also works perfectly with Next.js, Gatsby, Ruby on Rails or any other technology.",
+            "headline": "Nuxt.js",
+            "component": "feature"
+          },
+          {
+            "_uid": "bfcdf280-fd2b-45d6-9bcf-a369e35861dc",
+            "icon": "//a.storyblok.com/f/43698/3000x3000/c744798edc/img_round.svg",
+            "text": "The header and footer is completely configurable and saved in a content item called \"Layout\".",
+            "headline": "Header and Footer",
+            "component": "feature"
+          },
+          {
+            "_uid": "f0fd40a8-a277-436e-a561-c26a56206c0c",
+            "icon": "//a.storyblok.com/f/43698/3000x3000/c744798edc/img_round.svg",
+            "text": "Storyblok is a headless CMS. You are in complete control of how you build your website and this is just an example.",
+            "headline": "You are in Control",
+            "component": "feature"
+          }
+        ],
+        "component": "feature_list"
+      }],
+      "subheadline": "",
+      "column_style": [
+        "text-center",
+        "pb-md-5"
+      ],
+      "social_icons": [],
+      "icon_alt_text": "",
+      "section_style": [],
+      "image_position": "",
+      "container_style": []
+    }

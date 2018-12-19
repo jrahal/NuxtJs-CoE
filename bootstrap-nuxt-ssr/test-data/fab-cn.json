@@ -1,0 +1,880 @@
+{
+  "Header": {
+    "Title": "敏捷公共区块链（发链）",
+    "Language": "语言",
+    "Navigation": {
+      "Home": "首页",
+      "Project": "项目",
+      "News": "新闻",
+      "Blog": "博客",
+      "Ambassador": "FAB大使",
+      "Help": "帮助",
+      "Career": "工作机会",
+      "Contact": "联系我们",
+      "Signin": "登陆",
+      "Signout": "登出",
+      "Signup": "注册",
+      "Account": {
+        "UserInfo": "用户信息",
+        "AccountDetails": "账号资料",
+        "FabCoin": "发币",
+        "Kyc": "KYC"
+      }
+    }
+  },
+  "Footer": {
+    "Navigation": {
+      "Home": "首页",
+      "Project": "项目",
+      "News": "新闻",
+      "Blog": "博客",
+      "Ambassador": "FAB大使",
+      "Help": "帮助",
+      "Career": "工作机会",
+      "Contact": "联系我们",
+      "Subscribe": "订阅我们的新闻"
+    },
+    "AddressItem1": "发链基金会",
+    "AddressItem2": "68 West Bay Road 开曼群岛",
+    "AddressItem3": "技术伙伴：FA Enterprise System Inc.",
+    "AddressItem4": "215-7300 Warden Avenue, Markham ON L3R9Z6 加拿大 ",
+    "Right": "© 2018 发链基金会版权所有",
+    "Title": "发链"
+  },
+  "Home": {
+    "Top": {
+      "Title": "为满足真实商业需求而打造的新一代区块链协议",
+      "ButtonCTA": "了解更多",
+      "WalletCTA": "下载钱包APP",
+      "ExchangeCTAText": "上市交易所",
+      "ExchangesCTA": {
+        "Line1": "满币网",
+        "Line2": "即将登陆OKEx"
+      }
+    },
+    "Overview": {
+      "Title": "发链是什么？",
+      "ParagraphItem1": "FAB是一个旨在帮助企业快速采用去中心化技术的新一代区块链应用平台。 我们的主网已在运行中",
+      "Icon1": {
+        "Subtitle": "可扩展",
+        "Desc": "每秒高达100万笔交易，以用于快速付款结算和数据传输"
+      },
+      "Icon2": {
+        "Subtitle": "强大",
+        "Desc": "与其他区块链的互操作性，更快速的交易验证和超过一百万Gigabytes的存储量"
+      },
+      "Icon3": {
+        "Subtitle": "无障碍",
+        "Desc": "FAB的技术开发层使了解学习区块链应用程序更简单，使开发更迅速"
+      },
+      "Video1": "FAB如何运作",
+      "Video2": "什么是发币",
+      "Video3": "发链: 公共区块链网络",
+      "ParagraphItem2": "FAB解决了大规模采用区块链技术的技术难题。FAB是打造区块链应用的必经之路"
+    },
+    "ProblemSolution": {
+      "Title": "问题及解决方案",
+      "ParagraphItem1": "通过提升信任，安全和透明度，区块链将会彻底颠覆人类社会互动模式。",
+      "ParagraphItem2": "传统区块链由于低吞吐量和高交易成本，使它们并不适合大规模应用程序使用。",
+      "ParagraphItem3": "我们正在构建一个去中心化，可靠和可扩展的高性能平台，以便您打造开发自己的想法，而无需担心安全性，交易成本或网络拥塞。 FAB为各行各业开发智能，去中心化应用程序提供了它们所必须的性能及功能。"
+    },
+    "Features": {
+      "Title": "发链的卓越特性",
+      "ParagraphItem": "从比特币基础上脱胎换骨，将区块链技术带入一个新时代。",
+      "Feature1": {
+        "Title": "强大的可扩展性",
+        "Desc": "发链系统并非仅仅是一条区块链，而是构建满足未来需求的公共基础设施及通用协议，发链支持数以千万计的辅助链，每个辅助链的每秒交易数可达数以百万计"
+      },
+      "Feature2": {
+        "Title": "应用同时落地的去中心化公共网络",
+        "Desc": "伴随着发链的开发，将同时有架构于发链系统的去中心化供应链管理系统及电商平台推出"
+      },
+      "Feature3": {
+        "Title": "真正的公有区块链",
+        "Desc": "发链系统构造的是一个真正完全去中心化的系统，不仅主链完全去中心化，由于采用了KanBan及SCAR等技术，辅助链交易也完全以去中心化方式执行"
+      },
+      "Feature4": {
+        "Title": "统一的框架设计",
+        "Desc": "统一的应用框架设计为整个发链网络提供了便捷通用的开发接口和功能框架，为快速构建满足任意行业各种应用提供了有效手段"
+      },
+      "Feature5": {
+        "Title": "通用基础协议",
+        "Desc": "通用基础协议设计不仅满足可扩展性需求，也是跨链交易验证及安全保障的通用准则，是整个系统各个组成部份相互协作的基础"
+      },
+      "Feature6": {
+        "Title": "面向真实商业、企业应用",
+        "Desc": "发链是全球第一个真正满足实际应用的区块链网络。发链不仅支持价值交易，独创的辅助链双链机制可以分别支持价值交易与业务交易，确保满足任意复杂的业务需求"
+      },
+      "Feature7": {
+        "Title": "聪明的合同",
+        "Desc": "FAB拥有智能合约，允许在真正属于公众的开放式生态系统中实现自动化合同和协调"
+      },
+      "Feature8": {
+        "Title": "重塑未来的宏伟愿景",
+        "Desc": "发链的创造性思维和突破性架构，展示了发链的宏伟愿景 - 致力于构建一个可信任的更加公平的未来社会"
+      }
+    },
+    "Fabcoin": {
+      "Title": "发币",
+      "ParagraphItem1": "发币(FAB Coin)是发链全系统唯一的基础通用货币，发币固定2亿枚总量永久不变，其中8百万枚预留作为项目开发、市场，2千4百万枚销售，余下的1亿6千8百万枚在未来60年以上时间内通过挖矿产生。",
+      "CoinName": "币名",
+      "Fabcoin": "发币",
+      "CoinCode": "发币代号",
+      "CoinSymbol": "发币符号",
+      "UseCase1": "构建通用去中心化身份系统",
+      "UseCase2": "证据及存在证明系统",
+      "UseCase3": "搭建下一代去中心化金融服务",
+      "UseCase4": "DAO组织管理系统",
+      "UseCase5": "服务于物联网",
+      "UseCase6": "创建去中心化电子商务市场",
+      "UseCase7": "数字资产确权及知识产权保护",
+      "UseCase8": "去中心化供应链系统"
+    },
+    "BlockchainComparison": {
+      "Title": "区块链比较"
+    },
+    "Roadmap": {
+      "Title": "产品路线图",
+      "Timestamp1": {
+        "Title": "2014-09",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "FA Enterprise System系统公司成立, 并开始区块链研究"
+        }
+      },
+      "Timestamp2": {
+        "Title": "2015-02",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "开始基于区块链的定制电商项目DiyPlant开发。<br/>设计了基于区块链的去中心化业务逻辑<br/>设计了去中心化环境下知识产权保护模型<br/>规划了去中心化电商及物流运作模式"
+        }
+      },
+      "Timestamp3": {
+        "Title": "2016-01",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "创建了基于比特币的第一版区块链设计架构"
+        }
+      },
+      "Timestamp4": {
+        "Title": "2016-10",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "开始第二版设计。 决定使用包含三个组件的组合模型：基础链模型，辅助链模型和利用客户钱包和第三方存储服务的去中心化存储系统"
+        }
+      },
+      "Timestamp5": {
+        "Title": "2017-06",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "将KanBan概念引入到区块链系统<br/>为辅助链设计了SCAR模型<br/>确立了辅助链交易转换模<br/>设计了系统授权及验证处理流程和方法"
+        }
+      },
+      "Timestamp6": {
+        "Title": "2017-10",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "创建了第二版设计架构，创新引入了KanBan和SCAR"
+        }
+      },
+      "Timestamp7": {
+        "Title": "2017-11",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "完成白皮书，项目开发开始"
+        }
+      },
+      "Timestamp8": {
+        "Title": "2018-02",
+        "Desc": {
+          "SubTitle": "启动TGE市场运作进程",
+          "Content": "启动币发售进程<br/>公布币发售方案和规<br/>完成必备的TGE法律处理程序<br/>发币运作处理及管理网站发布<br/>与社区建设渠道开展合作"
+        }
+      },
+      "Timestamp9": {
+        "Title": "2018-03",
+        "Desc": {
+          "SubTitle": "基础链完成",
+          "Content": "白皮书的第一阶段已经完成：基础链。完成基础链中全节点兼容性和所有功能的测试。 开始采矿并形成采矿池"
+        }
+      },
+      "Timestamp10": {
+        "Title": "2018-04",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "FAB钱包已创建并实施了网站功能。 第一批小型合作伙伴关系已签署。"
+        }
+      },
+      "Timestamp11": {
+        "Title": "2018-05",
+        "Desc": {
+          "SubTitle": "Fabcoin上线交易所",
+          "Content": ""
+        }
+      },
+      "Timestamp12": {
+        "Title": "2018-06",
+        "Desc": {
+          "SubTitle": "辅助链协议完成",
+          "Content": "白皮书的第二阶段, 辅助链完成。KanBan测试，测试各种主链清算用例和测试各种重花防范功能"
+        }
+      },
+      "Timestamp13": {
+        "Title": "2018-08",
+        "Desc": {
+          "SubTitle": "通用中间件测试完成",
+          "Content": "测试所有4个中间框架，可以轻松构建应用程序和逻辑"
+        }
+      },
+      "Timestamp14": {
+        "Title": "2018-09",
+        "Desc": {
+          "SubTitle": "原力",
+          "Content": "FAB基础链硬分叉。 创建新硬币，为持有人提供更多有用的价值。 硬币和网络的所有功能都已实现"
+        }
+      },
+      "Timestamp15": {
+        "Title": "2018-10",
+        "Desc": {
+          "SubTitle": "应用测试",
+          "Content": "电子商务，供应链和支付应用程序的创建和测试"
+        }
+      },
+      "Timestamp16": {
+        "Title": "2019-01",
+        "Desc": {
+          "SubTitle": "正式启动",
+          "Content": "该网络完成并且运行多个应用程序，FAB的开采被主要采矿池接受，大型企业开始在网络上创建和使用应用。"
+        }
+      }
+    },
+    "OurTeam": {
+      "Title": "发链团队",
+      "SubTitle1": "顾问团队",
+      "Members1": {
+        "Member1": {
+          "Name": "Brad Nickel",
+          "Title": "商业与营销顾问",
+          "Desc": {
+            "ListItem1": "技术和商业顾问",
+            "ListItem2": "创业公司和创新专家",
+            "ListItem3": "加密货币及区块链技术专家",
+            "ListItem4": "佛罗里达国际大学兼职教授",
+            "ListItem5": "Blacknox Crypto Hodling Co.合伙人"
+          }
+        },
+        "Member2": {
+          "Name": "Sead Muftic",
+          "Title": "Blockchain Information Exchange Security Corp 首席执行官",
+          "Desc": {
+            "ListItem1": "区块链安全专家",
+            "ListItem2": "皇家理工学院 教授",
+            "ListItem3": "Setecs公司首席执行官",
+            "ListItem4": "乔治华盛顿大学客座教授",
+            "ListItem5": "Entegrity Solutions董事长兼首席执行官"
+          }
+        },
+        "Member3": {
+          "Name": "David Murry",
+          "Title": "区块链专家",
+          "Desc": {
+            "ListItem1": "Kainui Canoe的创始人首席执行官",
+            "ListItem2": "Blockchain Competence Center的区块链专家",
+            "ListItem3": "Disruption - Creating a Decentralized and Distributed World一书作者",
+            "ListItem4": "BlockchainNews.com的创始人"
+          }
+        },
+        "Member4": {
+          "Name": "Steven F. Browdy博士",
+          "Title": "科学技术顾问",
+          "Desc": {
+            "ListItem1": "数学，教育和软件专家博士",
+            "ListItem2": "全球对地观测系统成员(GEOSS)",
+            "ListItem3": "参与国家科学基金会资助的EarthCube",
+            "ListItem4": "标准和互操作性论坛主席",
+            "ListItem5": "研究组研究数据联盟(RDA)和IEEE成员",
+            "ListItem6": "标准协会P1931.1网络安全和区块链编辑",
+            "ListItem7": "由美国国家航空航天局资助，研究NASA内的元数据使用"
+          }
+        }
+      },
+      "SubTitle2": "管理团队",
+      "Members2": {
+        "Member1": {
+          "Name": "Paul Liu",
+          "Title": "创始人",
+          "Desc": {
+            "ListItem1": "FAB首席区块链专家",
+            "ListItem2": "前中国银联金融网经理",
+            "ListItem3": "BaoSell供应链和电子商务CEO ",
+            "ListItem4": "Caterpillar MIS和供应链高级技术顾问",
+            "ListItem5": "一系列区块链领域创新发明的所有者"
+          }
+        },
+        "Member2": {
+          "Name": "Mohamed El Kandri",
+          "Title": "首席执行官",
+          "Desc": {
+            "ListItem1": "工商管理硕士，技术创业与创新硕士 ",
+            "ListItem2": "区块链专家和主题演讲者",
+            "ListItem3": "杜兰创新奖获得者(Blockchain)",
+            "ListItem4": "Beta Gamma西格玛奖持有者",
+            "ListItem5": "策略性举措领先于Blockchain Hub - 约克大学 ",
+            "ListItem6": "C-Lab孵化计划(区块链)在约克大学区块链中心领导",
+            "ListItem7": "全球区块链联盟成员区块链研究员",
+            "ListItem8": "IBM Blockchain认证"
+          }
+        },
+        "Member3": {
+          "Name": "Liza Horowitz",
+          "Title": "市场总监",
+          "Desc": {
+            "ListItem1": "CWB Maxium Financial（加拿大西部银行子公司）B2B沟通和数字营销主管",
+            "ListItem2": "CryptoChicks-Blockchain and Cryptocurrencies for Ladies董事会成员",
+            "ListItem3": "SPL GROUP，战略和企业发展ATM技术，安全和区块链顾问",
+            "ListItem4": "德尔福集团企业发展和营销副总裁",
+            "ListItem5": "Bryan Mills Iradesso可持续发展通信和市场营销副总裁",
+            "ListItem6": "奥的斯集团公司市场和客户关系副总裁",
+            "ListItem7": "绿色城市景观首席创新官",
+            "ListItem8": "ScotiaMcLeod业务发展和营销主管",
+            "ListItem9": "安大略省金融服务委员会",
+            "ListItem10": "FSCI认证投资经理I和II"
+          }
+        },
+        "Member4": {
+          "Name": "Jason Hong",
+          "Title": "首席技术官",
+          "Desc": {
+            "ListItem1": "Gotrust Tech Inc.软件开发人员",
+            "ListItem2": "WinMagic软件开发人员",
+            "ListItem3": "恒宝股份有限公司安全产品高级软件开发商",
+            "ListItem4": "WatchData System Co.，Ltd高级软件开发人员",
+            "ListItem5": "ITS S&T Co.，Ltd.软件开发人员",
+            "ListItem6": "海正控股有限公司研究员兼软件工程师",
+            "ListItem7": "北京首钢设计院助理电气工程师",
+            "ListItem8": "中国科学院研究生院遥感学硕士",
+            "ListItem9": "浙江大学工程与工业自动化"
+          }
+        },
+        "Member5": {
+          "Name": "Fred Li",
+          "Title": "管理总监",
+          "Desc": {
+            "ListItem1": "亚利桑那州立大学MBA",
+            "ListItem2": "Bipivot计划/项目/产品管理",
+            "ListItem3": "MCIS IT专业人员 - 项目管理",
+            "ListItem4": "SBTI高级顾问 - 流程和服务管理",
+            "ListItem5": "摩托罗拉董事 - 全球IT服务交付"
+          }
+        }
+      },
+      "SubTitle3": "项目开发团队成员",
+      "Members3": {
+        "Member1": {
+          "Name": "Sam Gong",
+          "Title": "项目负责人"
+        },
+        "Member2": {
+          "Name": "Todor Milev",
+          "Title": "高级C++工程师"
+        },
+        "Member3": {
+          "Name": "Ankit Shah",
+          "Title": "高级软件工程师"
+        },
+        "Member4": {
+          "Name": "Nader Shiri",
+          "Title": "高级软件工程师"
+        },
+        "Member5": {
+          "Name": "Jonathan Yan",
+          "Title": "高级软件工程师"
+        },
+        "Member6": {
+          "Name": "Nadia S.C.",
+          "Title": "全栈工程师"
+        },
+        "Member7": {
+          "Name": "Yanpei Li",
+          "Title": "软件工程师"
+        },
+        "Member8": {
+          "Name": "Xiao (Bill) Li",
+          "Title": "软件工程师"
+        },
+        "Member9": {
+          "Name": "Alex Vuong",
+          "Title": "软件工程师"
+        },
+        "Member10": {
+          "Name": "Adil Asim",
+          "Title": "软件工程师"
+        },
+        "Member11": {
+          "Name": "Jerome Alve",
+          "Title": "软件工程师"
+        }
+      },
+      "SubTitle4": "Marketing",
+      "Members4": {
+        "Member1": {
+          "Name": "Eugene Cofie",
+          "Title": "产品经理"
+        },
+        "Member2": {
+          "Name": "Sarah Wu",
+          "Title": "商业策划负责人"
+        },
+        "Member3": {
+          "Name": "Gloria Gomez",
+          "Title": "多媒体专家"
+        },
+        "Member4": {
+          "Name": "Lorrie Liu",
+          "Title": "首席设计师"
+        },
+        "Member5": {
+          "Name": "HuiQiang Yue",
+          "Title": "中文社区助理"
+        },
+        "Member6": {
+          "Name": "Mayank Roy",
+          "Title": "英文社区助理"
+        }
+      }
+    }
+  },
+  "Ambassador": {
+    "Title": {
+      "ContentItem1": "FAB大使项目",
+      "ContentItem2": "学到更多"
+    },
+    "Sections": {
+      "AmbassadorIntro": {
+        "Title": "什么是FAB大使",
+        "Content": {
+          "ContentItem1": "空中大使是我们在社区中的代表。他们是聪明，雄心勃勃的人，他们帮助我们传播关于FAB项目的信息."
+        }
+      },
+      "AmbassadorProfiles": {
+        "Title": "我们的大使",
+        "Content": {
+          "ContentItem1": "你的名字",
+          "ContentItem2": "我们正在招募更多的大使!"
+        }
+      },
+      "ApplicationConfirmation": {
+        "Content": {
+          "ContentItem1": "申请已经提交!",
+          "ContentItem2": "我们的大使在社区中代表了FAB。他们激励他人并帮助传播区块链知识。"
+        }
+      },
+      "BecomeAmbassador": {
+        "Title": "成为FAB大使",
+        "Content": "填写下面的表格",
+        "FormFields": {
+          "FormField1": "姓名",
+          "FormField2": "电子邮箱",
+          "FormField3": "所在城市",
+          "FormField4": "所在国家",
+          "FormField5": "社交媒体或者社区网站链接",
+          "FormField6": "为什么您想成为FAB大使"
+        }
+      },
+      "AboutUs": {
+        "Title": "我们是谁?",
+        "Content": {
+          "ContentItem1": "我们相信经济赋权",
+          "ContentItem2": "我们在技术领域表达我们的创造力",
+          "ContentItem3": "我们相信思想，意见和人的多样性",
+          "ContentItem4": "我们相信自由的未来由我们自己创造"
+        }
+      }
+    }
+  },
+  "Project": {
+    "Top": {
+      "Title": "为满足真实商业需求而打造的新一代区块链协议",
+      "Content": "FAB为准备采用区块链技术，以及渴望在未来以区块链为驱动的经济中保有一席之位的企业及个人提供了全面的解决方案。FAB的概念经过系统研究，精心设计，并已在学术上得到认可。",
+      "ProjectFiles": {
+        "File1": {
+          "Text": "阅读项目白皮书",
+          "Link": "https://fabcoin.co/assets/pdfs/FAB-whitepaper.pdf"
+        },
+        "File2": {
+          "Text": "手册",
+          "Link": "https://fabcoin.co/assets/pdfs/FAB-brochure.pdf"
+        },
+        "File3": {
+          "Text": "阅读技术白皮书",
+          "Link": "https://fabcoin.co/assets/pdfs/FAB-technical-wp-cn.pdf"
+        }
+      },
+      "SocialMedia": {
+        "SocialMediaItem1": {
+          "Text": "Telegram频道",
+          "Icon": "",
+          "Link": ""
+        }
+      }
+    },
+    "SectionWallet": {
+      "Title": "发币钱包",
+      "Content": {
+        "ContentItem1": "Fabcoin电子钱包允许您与朋友交换价值，运行去中心化的应用程序并保护建立在FAB上的资产。",
+        "ContentItem2": "获取适用于Mac，Windows或Ubuntu计算机和移动设备的Fabcoin Wallet。"
+      },
+      "Link": {
+        "LinkItem1": {
+          "Name": "下载FABCOIN钱包",
+          "URL": "http://fabcoin.pro/runtime.html"
+        }
+      }
+    },
+    "SectionExplorer": {
+      "Title": "区块资源管理器",
+      "Content": {
+        "ContentItem1": "区块浏览器允许您查看基金会链中的单个交易，区块和区块顺序。"
+      },
+      "Link": {
+        "LinkItem1": {
+          "Name": "主链",
+          "URL": "http://fabexplorer.info"
+        },
+        "LinkItem2": {
+          "Name": "测试链",
+          "URL": "http://fabtest.info"
+        }
+      }
+    },
+    "SectionScalable": {
+      "Title": "可扩展的分散式企业应用程序",
+      "Content": {
+        "ContentItem1": "FAB是一个去中心化的公共平台，可以运行智能合约并可用于构建防篡改应用程序。智能合约是基于密码学的应用程序，按照程序运行，除非通过多数人的共识，否则无法更改。智能合约不受审查，欺诈或第三方变更的影响。",
+        "ContentItem2": "这些应用程序运行在最先进的FAB区块链上，这是一个基于比特币区块链的功能强大的共享全球基础架构，可交易价值并显示财产所有权。",
+        "ContentItem3": "程序开发者，企业和用户均可创建市场，存储债务或承诺，根据无限期指示（如遗嘱或期货合同）等方式移动资金，而不需要使用区块链的中央管理机构或腐败风险。",
+        "ContentBox": {
+          "ContentSubItem1": "基于旧式服务器的数据库要求应用程序运行他们的代码并将他们的数据存储在一个孤立的孤岛中。这会导致很多问题：",
+          "ContentSubItem2": {
+            "ContentListItem1": "它使得网络中的信息共享变得困难",
+            "ContentListItem2": "导致不同的网络合作伙伴有不同的分析和存储数据的方式，难以进行比较和对账",
+            "ContentListItem3": "如果网络的单个部分受到损害或脱机，则其他合作伙伴，用户和连接的应用程序将受到影响"
+          }
+        },
+        "ContentItem4": "在发链中，所有数据和交易信息都可以访问，共享和调和。任何人都可以设置节点并获得必要的事务历史记录，以与其他节点，应用程序并和用户达成协议。",
+        "ContentItem5": "重要的是，为了加快网络事务处理并保证数据安全，组织和应用程序可以设置辅链。辅链允许在特定节点分组之间进行交易，而不会降低辅链的速度，同时仍在辅链上公开交易数据。该系统还支持分散存储数据和文件，以便重要文件保持安全。",
+        "ContentItem6": "例如，如果您要为供应链构建分散式应用程序，则所有参与者都可以成为仅在参与者之间进行交易的辅链的一部分。交易的准确性仍由主链确认，但由于辅链，交易速度很高，重要的数据文件将为非公开。"
+      },
+      "SectionOwnToken": {
+        "Title": "你自己的代币",
+        "Content": {
+          "ContentItem1": "将您的Cryptotoken创建为虚拟共享、会员证明或任何其他信息。您的代币将与所有FAB钱包和交易所兼容。",
+          "ContentItem2": "流通代币的总数由您决定。我们可以协助您创建代币的流程。"
+        },
+        "ExtraLink": {
+          "Text": "创建你自己的代币",
+          "URL": ""
+        }
+      },
+      "SectionCrowdFound": {
+        "Title": "众筹",
+        "Content": {
+          "ContentItem1": "如果您有想要实现的想法应用程序想法，则需要资金来创建它。在传统世界和区块链为基础的世界众筹的成功记录有数十亿美元的筹集资金，您可以在这里查看最大的区块链项目。https://www.bitcoinmarketjournal.com/biggest-icos/",
+          "ContentItem2": "通过FAB，您可以开始为产品，股票或拍卖进行众筹。超越传统的在线众筹平台，在没有中央权威的情况下进行众筹。创建一个自动执行的合同，将持有贡献者的钱，直到达到既定目标。当达到目标时，资金将被释放您的项目。如果不是，他们又回到了贡献者身边。"
+        },
+        "ExtraLink": {
+          "Text": "众筹",
+          "URL": ""
+        }
+      },
+      "SectionDAOs": {
+        "Title": "去中心化自治组织 (DAOs)",
+        "Content": {
+          "ContentItem1": "将您的组织变成一个去中心化自治组织，将组织的文书工作融入FAB智能合约。 FAB智能合约可以公平公正地处理股东投票程序，处理账目和做文书工作。最重要的是，它们是自动执行的计算机程序，因此您可以相信它只会执行程序设计。"
+        },
+        "ExtraLink": {
+          "Text": "学到更多",
+          "URL": "https://en.wikipedia.org/wiki/Decentralized_autonomous_organization"
+        }
+      },
+      "SectionGetStarted": {
+        "Title": "让我们开始吧",
+        "Content": {
+          "ContentItem1": "您的企业能否受益于构建，低成本，快速，可扩展且去中心化的业务应用程序？",
+          "ContentItem2": "如果是的话，则可以继续下一步。通过提供预构建的应用程序和框架，您可以创建一个安全且可扩展的应用程序，无障碍，最适合您的组织，合作伙伴和客户。",
+          "ContentItem3": "如果您希望实现您的商业创意，想要创建或希望了解，或希望得到创造的开发人员，请填写我们的登记表或直接通过info@fa.biz与我们联系。"
+        },
+        "ExtraLink": {
+          "Text": "登记表",
+          "URL": ""
+        }
+      },
+      "SectionTheForce": {
+        "Title": "原力（The Force）",
+        "Content": {
+          "ContentItem1": "发链的显著特点将是快速更新。",
+          "ContentItem2": "预告的第一个分叉版本是“原力(The Force)”。",
+          "ContentItem3": "由于发链设计是面向全球企业级应用的去中心化基础平台系统，为了满足实际应用的需求，系统将持续不断更新，在尽最大可能维持主链不分叉的情况下，仍将有计划地实施分叉。",
+          "ContentItem4": "根据项目开发计划，发链的第一个硬分叉版本“原力(The Force)” 将于2018年9月底前实施，这将是发链系统历史性的里程碑，“原力(The Force)” 之后的发链系统，将基本展露发链原始设计的强大威力 - 满足企业级实际生产应用的去中心化需求。",
+          "ContentItem5": "原力将具备基本完善的基础链-辅助链体系结构，具备SCAR、KanBan及CCUA功能，不仅可以实施快速交易，而且可以执行跨链操作功能，并具有基本完善的应用开发框架体系。",
+          "ContentItem6": "原力的功能将十分强大，也非常复杂，因此，有意使用发链及原力以服务于实际应用的开发者，可以同时介入原力的开发，以及时掌握发链开发动态，并作出自己的贡献。",
+          "ContentItem7": "智慧与原力汇聚，将势不可挡。"
+        }
+      }
+    }
+  },
+  "Help": {
+    "Top": {
+      "Title": "疑难解答",
+      "Content": "如果您在这里找不到答案，请联系info@fa.biz."
+    },
+    "SectionFAQs": {
+      "Title": "常见问题",
+      "Questions": {
+        "Question1": {
+          "Question": "为什么区块链能满足企业级的需求？",
+          "Answer": {
+            "Section1": "区块链是通过点对点网络链接在一起的共享数字账本。它们允许节点自动并且匿名地在网络内传输数据，而无需使用中心化的来源来验证和处理交易或信息流动。区块链网络参与者的价值为:",
+            "Section2": {
+              "SectionItem1": "所有参与者之间共享的数据，使参与者负责并且防止不当行为",
+              "SectionItem2": "在没有中介的情况下进行交易，节省金钱和时间",
+              "SectionItem3": "存储在区块链中的数据块由于网络协议而无法更改，如果要破解系统则需要破解网络中的所有计算机",
+              "SectionItem4": "区块链系统的这些特点可以让所有需要重要数据快速更新并轻松共享给所有参与者的行业中发挥巨大作用，如全国医疗记录共享系统，金融机构或国家土地所有权和房地产系统",
+              "SectionItem5": "构建DAO结构业务 - 下一代组织"
+            }
+          },
+          "ExtraLink": {
+            "Text": "阅读我们的手册",
+            "URL": "http://localhost:4200/assets/pdfs/FAB-brochure.pdf"
+          }
+        },
+        "Question2": {
+          "Question": "FAB仅仅是一种新型的加密货币吗？",
+          "Answer": {
+            "Section1": "FAB是一种新的有价值的加密货币，但它不仅仅是一种加密货币。 FAB网络中的基础价值单元是Fabcoin，它将成为该系统的价值基础，但该项目的主要价值在于独特技术可用于企业和大型组织的用途。"
+          }
+        },
+        "Question3": {
+          "Question": "我应该如何开始使用Fabcoin?",
+          "Answer": {
+            "Section1": "访问Fabcoin Pro页面来创建您自己的钱包，开始挖矿甚至开始开发。我们为Ubuntu和Windows提供了钱包和节点的桌面软件，并为所有设备提供精简版钱包。您也可登陆满币网购买Fabcoin。"
+          },
+          "ExtraLink": {
+            "Text": "进入fabcoin.pro和www.coinbene.com"
+          }
+        },
+        "Question4": {
+          "Question": "我在哪里可以找到有关该项目的更多信息?",
+          "Answer": {
+            "Section1": "要了解更多有关FAB和区块链的信息，请加入我们的社群<a href='https://t.me/fabtoken'>https://t.me/fabtoken</a>，阅读白皮书或访问我们的项目网站。"
+          }
+        },
+        "Question5": {
+          "Question": "我在哪里可以找到关于如何运行该软件的说明？",
+          "Answer": {
+            "Section1": "访问我们的技术支持页面，Youtube教程或<a href='http://fabcoin.pro'>http://fabcoin.pro</a>来获取FAB的信息和指南。"
+          }
+        },
+        "Question6": {
+          "Question": "FAB有什么独特之处？它解决了什么问题？",
+          "Answer": {
+            "Section1": "可扩展性是公共区块链平台中的主要瓶颈之一。虽然比特币，以太坊和类似系统作为加密货币取得了成功，但大多数可用的区块链平台的交易能力受到严重限制。大多数情况下，它们只能处理每秒几笔交易，而最流行的平台每秒处理不超过七笔交易。<br/>在企业部门中，使用区块链进行业务应用程序的底层处理的需求似乎不断增加。这使得解决事务性能问题变得至关重要，同时仍能保持区块链平台所带来的好处。<br/>FAB是构建实用公共区块链生态系统的完整解决方案，具有高扩展性，有效的安全性，可靠性，分散性和开发多种应用程序类型的灵活性。它将允许每秒高达100万次的交易。<br/>FAB基于专用的基础协议化框架设计，中间层智能合同执行和上层功能体系结构实施。它将使区块链技术在真正的商业用例中取得成功。"
+          }
+        },
+        "Question7": {
+          "Question": "与BTC+Lightning Network（LN）或Ethereum+Plasma相比，为什么FAB是一个更好的选择？",
+          "Answer": {
+            "Section1": "FAB使用户能够在各种不同的交易平台上使用他们的在线资产。<br/>要完全理解这些差异，我们需要了解LN和Plasma的理论。为了简化：对于闪电网络，用户需要将一些比特币存入他的LN钱包，在那里持有一些比特币，与另一方建立一个渠道并进行交易。在通过比特币区块链之前，渠道中可能会有很多交易，最终，它只会被视为减少主区块链交易量的一笔交易，这是有道理的。<br/>这里有一个例子：比方说，eBay是一个LN，亚马逊是另一个LN：要在任一平台上完成交易，用户需要不同的LN钱包，并在两者中持有比特币。为了将资金从eBay LN转移到亚马逊LN，它将通过一个中央系统采取额外的步骤。这产生了集中化问题和两步协调过程。广泛使用LN的最佳解决方案是所有供应商和用户使用相同的LNo中心化系统。<br/>FAB在这里解决问题。用户可以在任何地方使用他的FAB钱包，不需要投币，不需要中心化。<br/>另一方面，比特币+闪电网络或以太坊+Plasma的主要目的是关注货币交易。我们的FAB网络基于协议设计，旨在支持上层管理框架，为价值，信任，证据和组织管理提供简单高效的界面。这不仅是货币。FAB还提供完整的业务逻辑和任何其他需要分散和共享功能的数据。"
+          }
+        },
+        "Question8": {
+          "Question": "距FAB完成还需要多长时间？",
+          "Answer": {
+            "Section1": "基础区块链主网于3月份发布。 我们有一个可以运行的网络，用户交易硬币，矿工验证交易和开发人员已经建立应用程序。 我们正在完成中间件框架，附链和应用程序层以提供网络全部功能。 整个项目将于2018年底完成。如需了解更多信息请查看我们的路线图。"
+          }
+        },
+        "Question9": {
+          "Question": "创始人都是谁？他们如何提出FAB的技术理论？",
+          "Answer": {
+            "Section1": "创始人Paul Liu是一位经验丰富的IT专家，在开发财务，供应链应用方面拥有超过20年的经验。他是中国银联金融网络的第一任总经理，领导和开发了一系列大型应用程序。<br/>2014年，我们开始研究和开发去中心化的供应链系统，以提高业务绩效作为根本目标。在我们深入的研究过程中，我们得出结论，当前的区块链网络由于其设计结构固有的可扩展性问题而无法处理企业级应用程序或其事务需求。为了解决这个问题的根本问题，团队开始开发基于我们的区块链考虑了可扩展性解决方案。<br/>经过三年的研究和开发，FAB项目启动。我们的三合一设计方案结合了基金会区块链，辅助区块链和开放存储架构来创建FAB系统。这种三合一设计可以克服网络每个单独部分的限制，解决可扩展的瓶颈问题，并且易于开发。凭借KanBan，SCAR和CCUA等创新成果，FAB是一个完全从底层构建而成的网络，可以完全集成到企业级运营中。<br/>FAB基金会的发展目标是利用FAB区块链促进科技进步，促进经济增长，努力建设公平可信的世界。"
+          }
+        },
+        "Question10": {
+          "Question": "白皮书里介绍了哪些新技术？",
+          "Answer": {
+            "Section1": "快速访问区块链项目包含一系列突破性创新，包括KanBan，SCAR和CCUA。 它还引入了一系列新的框架，如UVF - 通用价值框架，UTF - 通用信任框架，UEF - 通用证据框架，UOF - 通用组织框架。<br/>所有这些技术都将区块链技术带入更大规模的企业用途。"
+          }
+        },
+        "Question11": {
+          "Question": "FAB建成后的下一步是什么？",
+          "Answer": {
+            "Section1": "FAB项目的主要原则是帮助整个国际社会推动对等连接的未来。 我们计划建立一个基金会，帮助用户和开发人员发展点对点社区并推广我们的区块链。<br/>在业务方面，我们计划了一系列基于FAB的应用程序，包括去中心化的电子商务系统，供应链技术等等。"
+          }
+        }
+      }
+    },
+    "SectionTechnicalHelp": {
+      "Title": "技术支持",
+      "Questions": {
+        "Question1": {
+          "Question": "我参与了FAB令牌生成活动。如何将我的ERC20令牌换成发币？",
+          "Answer": "感谢您参与我们的FAB令牌生成活动。要将您的ERC20代币兑换为发币，请按照以下步骤操作：</b>登录您在网站上购买您的发币的帐户。</b>登录后，转至帐户 > 您应该可以在帐户中看到您的发币，与KYC旁边的复选标记。如果不存在，请填写KYC </b>在您的帐户中输入您的FAB钱包地址（您可以在<a href='http://fabcoin.pro'>http://fabcoin.pro</a>下载您的钱包）</b>更新并保存地址。</b>您将会看到一条名为ERC20 FAB令牌返回地址的行和一条名为ETH地址的行。 ETH地址是您用来购买ERC20令牌的地址。将您的ERC20代币从您的ETH地址发送到ERC20 FAB代币退回地址。</ b>在ERC20代币退回后的24小时内，您将收到您输入到您账户中的FAB钱包地址中的发币。 <b>如果您在此过程中需要帮助，请通过<a href='https://t.me/fabtoken'>https://t.me/fabtoken</a>与info@fa.biz或私人消息管理员联系。"
+        },
+        "Question2": {
+          "Question": "什么是FAB测试网？",
+          "Answer": "FAB testnet是一个测试网络，用于测试核心团队的核心系统开发，或者由应用程序开发人员测试应用程序。测试网中的硬币仅用于测试目的，它们在主网中没有任何用途或价值，并且无法在生产网络中使用。通常，测试网络包括生产网络的所有功能，但是与生产网络相比，它可能具有更多和更新的功能。"
+        },
+        "Question3": {
+          "Question": "什么是testnet种子节点？我如何检查testnet状态？",
+          "Answer": "FAB官方测试种子为：35.182.160.212和13.59.134.49。如果你知道另一个节点的IP，请把它们作为优先级。要检查testnet区块链的状态，请访问<a href='http://fabtest.info'>http://fabtest.info</a>页面。"
+        },
+        "Question4": {
+          "Question": "关于FAB生产网络",
+          "Answer": "FAB生产网络是官方的FAB网络。正如白皮书所述，FAB生产网络中的Fabcoins是官方的Fabcoins，既可用又有价值。根据FAB发展计划，FAB生产网络将于2018年9月底开展一个名为“The Force”的硬分支。“The Force”日之后的新网络将包括白皮书中设计的全部功能，以满足企业等级需求。"
+        },
+        "Question5": {
+          "Question": "我如何连接到生产网络？如何检查生产网络状态？",
+          "Answer": "您可以直接连接到FAB Foundation官方种子节点：54.215.244.48和18.130.6.117，如果您知道它们，您也可以连接到任何其他节点。要查看FAB生产网络的状态，请访问链接：<a href='http://fabexplorer.info'>http://fabexplorer.info</a>。"
+        },
+        "Question6": {
+          "Question": "什么样的钱包可以使用？",
+          "Answer": "我们有适用于Mac，Windows和Ubuntu桌面的Fabcoin Core钱包。也有适用于移动设备和网页的精简钱包。"
+        },
+        "Question7": {
+          "Question": "当我第一次尝试注册时，系统提示‘此邮箱已经存在’。这是怎么回事？",
+          "Answer": "您可能之前注册过此邮箱，请尝试重置密码。此外，FAB和Exchangeily中的账户信息是共享的。您可以使用同一登录信息来登录两个网站。"
+        }
+      }
+    },
+    "SectionManuals": {
+      "Title": "帮助手册",
+      "Manuals": {
+        "Manual1": {
+          "Name": "FABcoin全节点配置和挖掘简要指导",
+          "URL": "https://fa.biz/download/fab-mining-en.pdf"
+        },
+        "Manual2": {
+          "Name": "对FABcoin钱包的简要指导",
+          "URL": "https://fa.biz/download/fab-wallet-en.pdf"
+        },
+        "Manual3": {
+          "Name": "FABcoin钱包高级安装教程",
+          "URL": "https://fa.biz/download/advanced-fab-wallet-installation-cn.pdf"
+        },
+        "Manual4": {
+          "Name": "如何发送和接收FABcoins",
+          "URL": "https://fa.biz/download/how-to-send-receive-fab-cn.pdf"
+        },
+        "Manual5": {
+          "Name": "如何备份FABcoin钱包",
+          "URL": "https://fa.biz/download/how-to-back-fab-wallet-cn.pdf"
+        },
+        "Manual6": {
+          "Name": "如何在Coinbene Exchange上设置帐户",
+          "URL": ""
+        },
+        "Manual7": {
+          "Name": "FABcoin 手机钱包指南&帮助",
+          "URL": ""
+        }
+      }
+    }
+  },
+  "News & Events": {
+    "Top": {
+      "Title": "新闻和活动",
+      "EmptyContent": "看上去还没有......"
+    }
+  },
+  "SignIn": {
+    "Remember": "记住邮箱",
+    "ButtonSignIn": "使用邮箱登陆",
+    "ForgotPassword": "忘记密码了？可以在这里重置",
+    "SignUp": {},
+    "KYC": {},
+    "Profile": {
+      "UserInfo": {
+        "Title": "",
+        "Email": ""
+      },
+      "Account": {
+        "Title": ""
+      },
+      "FAB Coin": {
+        "Title": ""
+      },
+      "My Blog": {
+        "Title": ""
+      }
+    }
+  },
+  "Form": {
+    "Email": "邮箱",
+    "Password": "密码",
+    "User Info": "用户信息",
+    "Display Name": "显示名称",
+    "First Name": "名字",
+    "Middle Name": "中间名字",
+    "Last Name": "姓",
+    "Home Phone": "家庭电话",
+    "Work Number": "工作电话",
+    "Mobile Number": "移动电话",
+    "Work Email": "工作电子邮件",
+    "Active": "是否激活",
+    "Member Since": "会员有效期自从",
+    "Last Updated": "最近更新时间",
+    "Account Details": "帐户详细资料",
+    "Account": "帐户",
+    "FABcoin": "FAB币",
+    "Owner": "所有者",
+    "ETH Address": "ETH地址",
+    "FAB Address": "FAB地址",
+    "ERC20 Return Addr": "ERC20 FAB令牌返回地址",
+    "TX History": "TX历史",
+    "KYC": "或",
+    "USCitizen": "注意：美国公民或永久居民不得参加我们的TGE（专业投资者除外）",
+    "PhotoID": "照片ID验证",
+    "IDExample": "例如：护照，驾照，公民卡。至少需要1张带照片的身份证件",
+    "Verify": "请核实所有信息。提交后，无法编辑信息。",
+    "SubmitKYC": "提交KYC”或“提交了解您的客户",
+    "Sign In": "登录",
+    "ForgotPassword": "忘记密码？您可以在这里重置密码",
+    "Sign Up": "注册",
+    "SignUpEmail": "使用电子邮件注册",
+    "Activate": "激活",
+    "Thank You For Signing Up": "感谢您注册。",
+    "Check Inbox": "检查收件箱是否激活。",
+    "Click Link": "直接点击电子邮件中的链接，或复制并粘贴以下激活码：",
+    "General": "一般",
+    "Expand": "扩大",
+    "Not Available": "无法使用",
+    "Show Less": "显示较少",
+    "Submit": "提交",
+    "Save": "保存",
+    "Cancel": "取消",
+    "Edit Email": "编辑电子邮件",
+    "Full Name": "全名",
+    "Confirm Password": "确认密码",
+    "Activation Code": "激活码",
+    "Activate My Account": "激活我的帐户",
+    "Pay": "支付",
+    "Amount": "数量",
+    "FAB Quantity": "FAB数量",
+    "Status": "状态",
+    "History": "历史",
+    "Personal Member": "个人会员",
+    "Edit": "编辑",
+    "KYCSubmission Thanks": "感谢您提交KYC。目前正在审核中",
+    "Check Inbox2": "一旦请求，将发送一封包含重置密码链接的电子邮件。请检查您的收件箱",
+    "Request Password Reset": "请求密码重置'",
+    "Check Inbox3": "检查收件箱中的密码重置电子邮件",
+    "Back to Sign In": "回到登录"
+  },
+  "FormErrors": {
+    "FieldRequiredError": "这是必填栏",
+    "ValidEmailError": "必须是有效的电子邮件地址",
+    "PasswordMatchError": "密码不匹配。",
+    "MinCharacterError": "至少需要{{value}}位字符",
+    "EmailExistsError": "电子邮件{{value}}已经存在"
+  }
+}

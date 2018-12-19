@@ -1,0 +1,504 @@
+{
+  "stories": [{
+      "name": "Home",
+      "created_at": "2018-04-06T12:26:22.759Z",
+      "published_at": "2018-05-04T11:39:50.112Z",
+      "alternates": [],
+      "id": 98217,
+      "uuid": "e24ed385-0b86-422e-a4cc-69064846e13b",
+      "content": {
+        "_uid": "e2d2b1cb-e6fd-4026-9cae-30044e76d7b1",
+        "body": [{
+            "_uid": "43bccb44-f03b-4f06-8515-06b4025bc3d5",
+            "title": "NuxtDoc",
+            "subtitle": "Create your documentation with NuxtJS, Storyblok and deploy it on Netlify.",
+            "component": "teaser",
+            "button_link": {
+              "id": "63f075f9-5f02-4805-a3af-2cb84f5b7aeb",
+              "url": "",
+              "linktype": "story",
+              "fieldtype": "multilink",
+              "cached_url": "v1/guide/introduction"
+            },
+            "button_text": "Get me to the Docs",
+            "background_image": "//a.storyblok.com/f/43760/2000x500/3afb2b33d7/nuxtdoc-background.svg"
+          },
+          {
+            "_uid": "85bc0511-c791-4561-8639-362b4b01c620",
+            "columns": [{
+                "_uid": "60429f9f-f4ef-4302-96e7-70bc44e8b319",
+                "link": {
+                  "id": "ef631e21-b771-49f4-a486-69efff85a643",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "v1/ecosystem/why-nuxt"
+                },
+                "logo": "//a.storyblok.com/f/43760/256x189/97266889fd/nuxt.svg",
+                "name": "Built with Nuxt",
+                "component": "feature",
+                "link_text": "Why Nuxt?",
+                "description": "Nuxt.js is a framework for creating Universal Vue.js Applications. It presets all the configuration needed to make your development of a Vue.js Application Server Rendered more enjoyable."
+              },
+              {
+                "_uid": "5fdef07d-456a-487a-b10d-cf7dd8e72df8",
+                "link": {
+                  "id": "4a971857-f1be-4708-b2ae-e401c1f30445",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "v1/ecosystem/why-storyblok"
+                },
+                "logo": "//a.storyblok.com/f/43760/187x217/ff47150545/storyblok.svg",
+                "name": "Content with Storyblok",
+                "component": "feature",
+                "link_text": "Why Storyblok?",
+                "description": "CMS done right. API based & Headless with clean and structured JSON for you as developer and a CMS your editors will fall in love with. Unlimited extensibility through custom plugins using VueJs."
+              },
+              {
+                "_uid": "7d63b62f-f10c-4c70-bf4b-d058b07fae15",
+                "link": {
+                  "id": "daa26172-db21-4026-abd0-8e5d7adf529d",
+                  "url": "",
+                  "linktype": "story",
+                  "fieldtype": "multilink",
+                  "cached_url": "v1/ecosystem/why-netlify"
+                },
+                "logo": "//a.storyblok.com/f/43760/256x256/d78f9d9b8c/netlify.svg",
+                "name": "Deploy with Netlify",
+                "component": "feature",
+                "link_text": "Why Netlify?",
+                "description": "Build, deploy, and manage modern web projects. Get an all-in-one workflow that combines global deployment, continuous integration, and HTTPS."
+              }
+            ],
+            "component": "grid"
+          }
+        ],
+        "component": "page"
+      },
+      "slug": "home",
+      "full_slug": "home",
+      "sort_by_date": null,
+      "position": -87780,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 0,
+      "meta_data": null,
+      "group_id": "43757702-bde2-4bc1-871b-711bb899d74d"
+    },
+    {
+      "name": "Default Stylings",
+      "created_at": "2018-05-04T09:42:04.847Z",
+      "published_at": "2018-05-04T09:51:44.623Z",
+      "alternates": [],
+      "id": 118868,
+      "uuid": "c1cc583b-a2be-412b-a286-436563984685",
+      "content": {
+        "_uid": "03cf566e-9d23-4dcf-9ffa-10791f1c7ad7",
+        "content": "NuxtDoc ships with default stylings for most elements you can create with markdown. You can have a look at [our cheatsheet](https://gist.github.com/DominikAngerer/b4a29b5ec9a69fc09546882586bc2d6b) to see the below as Markdown.\n\n## Markdown Elements\n\nLorem ipsum dolor sit amet, *consectetur* adipisicing elit, sed do eiusmod\ntempor incididunt ut **labore et dolore magna aliqua**. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. ***Duis aute irure dolor*** in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. ~~Excepteur sint occaecat~~ cupidatat non\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n## H2\n\nLorem ipsum dolor sit amet, *consectetur* adipisicing elit, sed do eiusmod\ntempor incididunt ut **labore et dolore magna aliqua**. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. \n\n---\n\n***Duis aute irure dolor*** in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. ~~Excepteur sint occaecat~~ cupidatat non\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n### H3\n\nunordered list:\n\n* item-1\n  * sub-item-1\n  * sub-item-2\n- item-2\n  - sub-item-3\n  - sub-item-4\n+ item-3\n  + sub-item-5\n  + sub-item-6\n\n> Quotes are important.\n\nordered list:\n\n1. item-1\n   1. sub-item-1\n   2. sub-item-2\n2. item-2\n   1. sub-item-3\n   2. sub-item-4\n3. item-3\n\n#### Header4\n\nTable Header-1 | Table Header-2 | Table Header-3\n:--- | :---: | ---:\nTable Data-1 | Table Data-2 | Table Data-3\nTD-4 | Td-5 | TD-6\nTable Data-7 | Table Data-8 | Table Data-9\n\n##### Header5\n\nYou may also want some images right in here like ![GitHub Logo](https://cloud.githubusercontent.com/assets/5456665/13322882/e74f6626-dc00-11e5-921d-f6d024a01eaa.png \"GitHub\").\n\n###### Header6\n\nLet us do some links - this for example: https://github.com/MinhasKamal/github-markdown-syntax is a link without additional label but this: is a [GitHub](https://github.com/MinhasKamal/github-markdown-syntax) link with additional label.\n\n```\n{\n   \"content\":\"this is my code\"\n}\n```",
+        "summary": "NuxtDoc ships with default stylings for most elements you can create with markdown.",
+        "component": "doc"
+      },
+      "slug": "default-stylings",
+      "full_slug": "v1/features/default-stylings",
+      "sort_by_date": null,
+      "position": 10,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "a75063c9-d96f-4edb-ae97-b24b339dc8a1"
+    },
+    {
+      "name": "Why Nuxt",
+      "created_at": "2018-04-09T09:50:19.268Z",
+      "published_at": "2018-05-04T09:41:52.726Z",
+      "alternates": [],
+      "id": 99170,
+      "uuid": "ef631e21-b771-49f4-a486-69efff85a643",
+      "content": {
+        "_uid": "cf25c35e-7b8d-459e-b803-7e612d4a9de0",
+        "content": "> Nuxt.js is a framework for creating Universal Vue.js Applications.\n\nIts main scope is UI rendering while abstracting away the client/server distribution.\n\nOur goal is to create a framework flexible enough that you can use it as a main project base or in addition to your current project based on Node.js.\n\nNuxt.js presets all the configuration needed to make your development of a Vue.js Application Server Rendered more enjoyable.\n\nIn addition, we also provide another deployment option called: nuxt generate. It will build a Static Generated Vue.js Application. We believe that option could be the next big step in the development of Web Applications with microservices.\n\nAs a framework, Nuxt.js comes with a lot of features to help you in your development between the client side and the server side such as Asynchronous Data, Middleware, Layouts, etc.",
+        "summary": "",
+        "component": "doc"
+      },
+      "slug": "why-nuxt",
+      "full_slug": "v1/ecosystem/why-nuxt",
+      "sort_by_date": null,
+      "position": 10,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99167,
+      "meta_data": null,
+      "group_id": "fffd5512-d4b1-4adc-95de-3361bd37f1e3"
+    },
+    {
+      "name": "Introduction",
+      "created_at": "2018-04-06T12:26:59.185Z",
+      "published_at": "2018-04-11T13:16:52.218Z",
+      "alternates": [],
+      "id": 98220,
+      "uuid": "63f075f9-5f02-4805-a3af-2cb84f5b7aeb",
+      "content": {
+        "_uid": "a5d464fe-3853-4986-90f0-5e03a8f71090",
+        "content": "A setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone.\n\n## Why NuxtDoc?\n\nYou can already find a youtube series on [how to create a blog with Storyblok and Nuxt](https://www.youtube.com/watch?v=Dc_5BpIB4X4), but for documentation we wanted to go one step further, therefore you can now start directly with NuxtDoc to create your own documentation in no time.\n\n## What is NuxtDoc?\n\nNuxtDoc is an easy to customize documentation setup. It's based on [NuxtJs](https://nuxtjs.org/) to render content added in the [headless CMS Storyblok](https://www.storyblok.com) and deployed using [Netlify](https://www.netlify.com). Combining those services allows you to easily create and host fast, flexible and beautiful documentations for your clients.\n\n## Inspiration\n\nNuxtDoc is highly inspired by the high quality documentation of [Vue.js](https://www.vuejs.org). We think that their documentation sets a new standard on how a framework can be documented. Make sure to check them out yourself.\n\n## How it works\n\nNuxtDoc combines (free) services to build out full documentations with a minimum amount of effort. The services/tools NuxtDoc uses are:\n\n- [NuxtJs](https://nuxtjs.org/)\n- [VueJs](https://vuejs.org/)\n- [Storyblok](https://www.storyblok.com)\n- [Netlify](https://www.storyblok.com)",
+        "summary": "A setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone.",
+        "component": "doc"
+      },
+      "slug": "introduction",
+      "full_slug": "v1/guide/introduction",
+      "sort_by_date": null,
+      "position": 10,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 98219,
+      "meta_data": null,
+      "group_id": "c57c22b2-ad1a-4704-ae1f-93ea0dd02285"
+    },
+    {
+      "name": "Custom Domains",
+      "created_at": "2018-04-09T22:31:06.796Z",
+      "published_at": "2018-04-11T13:16:59.291Z",
+      "alternates": [],
+      "id": 99297,
+      "uuid": "cd95f023-6fe5-4fe0-a945-6858dc179125",
+      "content": {
+        "_uid": "149b1139-e169-4cc5-b0fc-b4eaca3407f6",
+        "content": "Use your own custom domains for free. Get more control when you manage DNS zones and records using Netlify’s DNS hosting.\n\nBy default, any site on Netlify is accessible via its Netlify subdomain, which has the form `[name-of-your-site].netlify.com`. For example, you would access a site named `warrior-priscilla-50207 with warrior-priscilla-50207.netlify.com`.\n\nTo make a site accessible via one or more non-Netlify domain names (eg. `www.yourcustomdomain.com`), you must add custom domain(s) to your site as described below.\n\n## General steps:\n\n1. If you don‘t already own a custom domain, buy one with a domain registration service.\n2. Add the custom domain to your site.\n3. Configure your DNS provider to point the domain at the Netlify servers.\n4. Test that your site is accessible via the custom domain. There may be a delay while DNS changes propagate.\n\nYou can find a [full Tutorial](https://www.netlify.com/docs/custom-domains/) in the Netlify Docs.",
+        "summary": "Use your own custom domains for free. Get more control when you manage DNS zones and records using Netlify’s DNS hosting.",
+        "component": "doc"
+      },
+      "slug": "custom-domains",
+      "full_slug": "v1/features/custom-domains",
+      "sort_by_date": null,
+      "position": 20,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "88534a30-a345-4c06-857c-8d7511353734"
+    },
+    {
+      "name": "Requirements",
+      "created_at": "2018-04-09T10:01:21.587Z",
+      "published_at": "2018-04-11T13:16:52.225Z",
+      "alternates": [],
+      "id": 99173,
+      "uuid": "13e814d5-b38e-48c0-8ff2-2a4288038b6f",
+      "content": {
+        "_uid": "e21ab7eb-db9c-4d4e-83b4-1992e5b449a5",
+        "content": "## Markdown\n\nA basic understanding of Markdown, since every entry created for your documentation is based on that. Also the site you're currently looking at actually is nothing more than a simple Markdown file.\n\n## NuxtJs\n\nNuxt.js is really easy to get started with. A simple project only needs the nuxt dependency. You can try it yourself by reading [their docs](https://nuxtjs.org/guide/installation).\n\n## Netlify\n\nA Netlify Account is required to deploy your site. We've built in support for Netlify, since they offer variation of services you may want to add to your documentation.\n\n## Storyblok\n\nA Storyblok account is required to write content and host your assets for your site. We're using Storyblok to have an easy editing experience and be flexible enough so you can customize NuxtDoc to be your own.\n\n## Admin UI\n\nStoryblok’s admin ui requires modern browser.\n\n| Browser           | Version |\n|-------------------|---------|\n| Chrome            | >= 29   |\n| Firefox           | >= 29   |\n| Safari            | >= 10   |\n| Internet Explorer | >= 11   |\n| Microsoft Edge    | >= 12   |",
+        "summary": "All you need is: Markdown, NuxtJs, Netlify, Storyblok",
+        "component": "doc"
+      },
+      "slug": "requirements",
+      "full_slug": "v1/guide/requirements",
+      "sort_by_date": null,
+      "position": 20,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 98219,
+      "meta_data": null,
+      "group_id": "a027156e-45c7-45a8-85e6-67a0dbc70c0f"
+    },
+    {
+      "name": "Why Storyblok",
+      "created_at": "2018-04-09T09:50:12.130Z",
+      "published_at": "2018-05-04T09:41:24.372Z",
+      "alternates": [],
+      "id": 99169,
+      "uuid": "4a971857-f1be-4708-b2ae-e401c1f30445",
+      "content": {
+        "_uid": "96fe0617-1f57-41cf-86d3-d964a6352381",
+        "content": "Storyblok is a headless CMS. As a developer it allows you to use any technology to integrate it in existing or new projects to manage content and layout structures.\n\nThe editor of one content entry can create a flat or nested tree of components (defined by developers) and input content in an easy and fast responding interface in fields also predefined by you as a developer.\n\n## Content Types\n\nStoryblok allows you to create content types that define the structure of your content at the root level. If you create a new project you will have one content type that’s called “page”. For things like news articles, blog posts or products you can define new content types that have a different structure than that of a simple page.\n\n```\n{\n  \"component\":\"article\",\n  \"title\": \"Your title\",\n  \"text\": \"#Lorem ipsum dolor sit amet, consectetur adipiscing elit. In erat mauris, faucibus quis pharetra sit amet, pretium ac libero. Etiam vehicula eleifend bibendum.\\n ## Morbi gravida\\n metus ut sapien condimentum sodales mollis augue sodales. Vestibulum quis quam at sem placerat aliquet. Curabitur a felis at sapien ullamcorper fermentum. Mauris molestie arcu et lectus iaculis sit amet eleifend eros posuere. Fusce nec porta orci.\",\n  \"image\": \"//a.storyblok.com/f/...\"\n}\n```\n\n## Nested Components\n\nOne big difference of Storyblok compared to other CMS out there is the possibility to nest components as deep as you want them to be nested. So what is the advantage of this? Here an example:\n\n```\n{\n  \"component\": \"grid\",\n  \"columns\": [{\n      \"component\": \"column\",\n      \"width\": \"1-4\",\n      \"content\": [{\n        \"component\": \"markdown\",\n        \"text\": \"Nest components using an intuitive editor\"\n      }]\n    },\n    {\n      \"component\": \"column\",\n      \"width\": \"1-2\",\n      \"content\": [{\n        \"component\": \"image\",\n        \"src\": \"//a.storyblok.com/f/...\"\n      }]\n    }\n  ]\n}\n```\n\n## Example?\n\nYou can directly have a look at the JSON which we use to render this page. All that you will have to do is to open the link below.\n\n```\nhttps://api.storyblok.com/v1/cdn/stories/v1/ecosystem/why-storyblok?version=published&token=R5hUgUB9PGoRq2XwtYw14wtt\n```",
+        "summary": "Storyblok is a headless CMS. As a developer it allows you to use any technology to integrate it in existing or new projects to manage content and layout structures.",
+        "component": "doc"
+      },
+      "slug": "why-storyblok",
+      "full_slug": "v1/ecosystem/why-storyblok",
+      "sort_by_date": null,
+      "position": 20,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99167,
+      "meta_data": null,
+      "group_id": "ddc2a03a-c5e2-4c52-a347-708a800c9540"
+    },
+    {
+      "name": "Image CDN",
+      "created_at": "2018-04-09T20:06:25.581Z",
+      "published_at": "2018-04-11T13:16:59.272Z",
+      "alternates": [],
+      "id": 99278,
+      "uuid": "ac357ebd-8a35-404f-be01-66fb279ffa85",
+      "content": {
+        "_uid": "9e3a6e4d-b02f-4cec-9de3-47b0af4b200c",
+        "content": "All images will be served by Storyblok and Amazon AWS Cloudfront service. No need to configure anything, simply upload your images to Storyblok and you're ready to go. Every image uploaded to Storyblok will automatically distributed to give your customers the performance for assets they deserve.\n\n![Storyblok AWS Cloudfront](//a.storyblok.com/f/43760/1501x851/068826b611/aws-cloudfront-storyblok-image-map.png) ",
+        "summary": "All images will be served by Storyblok and Amazon AWS Cloudfront service. No need to configure anything, simply upload your images to Storyblok and you're ready to go. Every image uploaded to Storyblok will automatically distributed to give your customers the performance for assets they deserve.",
+        "component": "doc"
+      },
+      "slug": "image-cdn",
+      "full_slug": "v1/features/image-cdn",
+      "sort_by_date": null,
+      "position": 30,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "9086434a-601f-4965-bd80-66c31377eae5"
+    },
+    {
+      "name": "Getting Started",
+      "created_at": "2018-04-09T11:02:38.030Z",
+      "published_at": "2018-05-10T20:42:01.524Z",
+      "alternates": [],
+      "id": 99180,
+      "uuid": "f5cfa466-503c-4ddb-bfed-68d37f82bb24",
+      "content": {
+        "_uid": "ec483338-c120-492a-9477-83c5f3458ad8",
+        "content": "Let's get you started with NuxtDoc in just a couple of minutes.\n\n## Environment Setup\n\n![Nuxt](//a.storyblok.com/f/43760/1200x190/bde4417a2e/nuxt.jpg)\n\n### Fork the source\n\nNavigate to our [Github Repository](https://github.com/storyblok/nuxtdoc) and fork it into your repositories.\n\n### Checkout the source\n\n```\ngit clone git@github.com:YOUR_GITHUB_PROFILE/nuxtdoc.git \n```\n\n### Install dependencies\n\n```\nnpm install \n## or\nyarn\n```\n\n## Storyblok\n\n![Storyblok](//a.storyblok.com/f/43760/1200x190/26891f72d2/storyblok.jpg)\n\n### Install the Storyblok CLI\n\n```\nnpm install -g storyblok\n```\n\n### Start the CLI\n\nBy executing the following command you will be able to login/register to Storyblok and directly create a new Space from your command line.\n\n```\nstoryblok\n```\n\n### Seed components\n\nStoryblok allows you to create components and content-types however you like. NuxtDoc ships with predefined components which you can customize. To give you a quick start we can use the Storyblok CLI to upload the initial version of components.\n\n```\nstoryblok push-components --space=YOUR_SPACE_ID seed.components.json\n```\n\n### Seed content\n\nThe Nuxt setup of NuxtDoc follows a specific routing to also give you a quick head-start you can simply execute the following command to create some seed content and the basic folder structure in Storyblok for you.\n\n```\nnode seed.js --space=YOUR_SPACE_ID\n```\n\n### Exchange access token\n\nExchange the access token in the `nuxt.config.js` with your own Storyblok `preview token`. You can find that in your space dashboard.\n\n## Netlify\n\n![Netlify](//a.storyblok.com/f/43760/1200x190/68ea121d79/netlify.jpg)\n\n### Install the Netlify CLI\n\nTo finally deploy the NuxtDoc and share it with your customers and/or community all we have left is to install the Netlify CLI:\n\n```\nnpm install netlify-cli -g\n```\n\n### Nuxt Generate \n\nBefore we deploy we will have to generate the routes and build your NuxtDoc project. Make sure your content entries in Storyblok are published since the generate step should be done for live deployments.\n\n```\nnpm run generate\n```\n\n### Deploy on Netlify\n\nExecute the command below to create your Netlify account and directly upload your project, you will need to choose the `dist` folder to\n\n```\nnetlify deploy\n```\n\n### Speed up deployment\n\nTo speed up your deployment you can also use a custom script as we ship it directly for you in the NuxtDoc package.json, all you need to do to generate your nuxt project and deploy it on Netlify is the following:\n\n```\nnpm run deploy\n```",
+        "summary": "Let's get you started with NuxtDoc in just a couple of minutes.",
+        "component": "doc"
+      },
+      "slug": "getting-started",
+      "full_slug": "v1/guide/getting-started",
+      "sort_by_date": null,
+      "position": 30,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 98219,
+      "meta_data": null,
+      "group_id": "fd447659-6388-403c-8a45-9ba2a001540a"
+    },
+    {
+      "name": "Why Netlify",
+      "created_at": "2018-04-09T09:49:11.919Z",
+      "published_at": "2018-05-04T09:41:49.096Z",
+      "alternates": [],
+      "id": 99168,
+      "uuid": "daa26172-db21-4026-abd0-8e5d7adf529d",
+      "content": {
+        "_uid": "b46cdc85-28ac-40eb-806f-ef9e9d952d5f",
+        "content": "Netlify aims to perfect a unified platform that automates code; creating high-performant sites and web-apps. Users should be able to simply push their code and let them take care of the rest.\n\n## How to start\n\nIt is incredibly simple to get started with Netlify. And you don’t need to know about all of the powerful features under the hood to start benefiting from them.\n\nThe simplest way to get a static web site hosted on Netlify (perhaps anywhere?) is to drag and drop a folder of your files directly into the browser on [app.netlify.com](https://app.netlify.com)\n\nThere is also a tool which you can use to deploy directly from your command line, but I’ll let you read about that over in the excellent docs, otherwise it might look like I’m cheating by trying to slip in a couple of extra things ahead of my list without tipping over the 10 item limit.\n\n[Have a look at the list here](https://medium.com/netlify/10-netlify-features-to-surprise-and-delight-225e846b7b21)",
+        "summary": "Netlify aims to perfect a unified platform that automates code; creating high-performant sites and web-apps. Users should be able to simply push their code and let them take care of the rest.",
+        "component": "doc"
+      },
+      "slug": "why-netlify",
+      "full_slug": "v1/ecosystem/why-netlify",
+      "sort_by_date": null,
+      "position": 30,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99167,
+      "meta_data": null,
+      "group_id": "a7b67cc3-0602-4b98-9d61-e8408ea29817"
+    },
+    {
+      "name": "Easy Hosting",
+      "created_at": "2018-04-09T20:06:17.575Z",
+      "published_at": "2018-04-11T13:16:59.269Z",
+      "alternates": [],
+      "id": 99277,
+      "uuid": "f40cfac5-3044-452d-bec2-7761559e22a4",
+      "content": {
+        "_uid": "012e5e0e-1133-4ea7-a3e6-8437f7a964ce",
+        "content": "Netlify allows you to deploy your site in seconds, literally. You can either follow their  three step tutorial or have a look at our [Getting Started Guide](/v1/guide/getting-started#install-the-netlify-cli) to go through the two steps with their CLI.\n\n## Push your site live\n\nDeploy your site to an ultra-redundant global CDN that’s purpose built for serving pages and assets quickly and consistently.\n\n## Automate deployment\n\nNetlify’s built-in Continuous Deployment automatically runs your build commands and deploys the result whenever you push to your Git repository.",
+        "summary": "Netlify allows you to deploy your site in seconds, literally. You can either follow their  three step tutorial or have a look at our [Getting Started Guide](/v1/guide/getting-started#install-the-netlify-cli) to go through the two steps with their CLI.",
+        "component": "doc"
+      },
+      "slug": "easy-hosting",
+      "full_slug": "v1/features/easy-hosting",
+      "sort_by_date": null,
+      "position": 40,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "fea280e3-017f-4dcf-b9e0-02a6e1406081"
+    },
+    {
+      "name": "Live Preview",
+      "created_at": "2018-04-09T11:36:12.171Z",
+      "published_at": "2018-04-11T13:16:52.177Z",
+      "alternates": [],
+      "id": 99194,
+      "uuid": "b1adce7c-08bd-4da2-aa88-622610af752b",
+      "content": {
+        "_uid": "2f67c7e9-0b08-48d1-9aaa-13d23f12b7f8",
+        "content": "To start a development server and enable the live preview in Storyblok all you have to do is to start your local dev environment:\n\n```\nnpm run dev\n```\n\nStoryblok will embed your dev/test environment in their SaaS and enable you to create new content entries on the fly. During the getting started you did execute the content seed which already set the preview URL to the default `http://localhost:3000/`. You can always change this in your Storyblok space settings to, for example, host a development stage to have an instant preview for your editors as well.",
+        "summary": "To start a development server and enable the live preview in Storyblok all you have to do is to start your local dev environment.",
+        "component": "doc"
+      },
+      "slug": "live-preview",
+      "full_slug": "v1/guide/live-preview",
+      "sort_by_date": null,
+      "position": 40,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 98219,
+      "meta_data": null,
+      "group_id": "03e67556-0510-4575-9d1f-cd6e5096047c"
+    },
+    {
+      "name": "Side By Side Editing",
+      "created_at": "2018-04-09T20:05:38.943Z",
+      "published_at": "2018-04-11T13:16:59.384Z",
+      "alternates": [],
+      "id": 99275,
+      "uuid": "66425c4c-fa4d-4748-a7c1-4ec3915b80ca",
+      "content": {
+        "_uid": "0cc7ad58-2aaa-4c29-ab81-ea1ce644afd0",
+        "content": "So this is actually not a feature brought to you by NuxtDoc but by Storyblok. We can use their SideBySide editor to directly write and preview our content, without to worry about unexpected results.\n\n<iframe width=\"600\" height=\"339\" src=\"https://www.youtube.com/embed/XQzMM-pPWoI?rel=0&amp;showinfo=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n\n## The Storyblok Bridge\n\nIf you want to know more about [how this works](https://www.storyblok.com/docs/Guides/storyblok-latest-js) have a look at the Storyblok documentation and their tutorials.",
+        "summary": "So this is actually not a feature brought to you by NuxtDoc but by Storyblok. We can use their SideBySide editor to directly write and preview our content, without to worry about unexpected results.",
+        "component": "doc"
+      },
+      "slug": "side-by-side-editing",
+      "full_slug": "v1/features/side-by-side-editing",
+      "sort_by_date": null,
+      "position": 50,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "f9ff9dae-ff66-494c-ab1d-4a15438ce235"
+    },
+    {
+      "name": "NPM commands",
+      "created_at": "2018-04-09T12:40:47.277Z",
+      "published_at": "2018-04-11T13:16:52.224Z",
+      "alternates": [],
+      "id": 99196,
+      "uuid": "10a06557-213f-425b-b20a-16818297f696",
+      "content": {
+        "_uid": "2ed75fe1-3786-4570-a16f-7a9d79d2c4ed",
+        "content": "## Install dependencies\n\n```\nnpm install \n# Or \nyarn install\n```\n\n## Serve with hot reload at localhost:3000\n```\nnpm run dev\n```\n\n## Build for production and launch server\n\n```\nnpm run build\nnpm start\n```\n\n## Generate static project\n```\nnpm run generate\n```\n\n## Generate and deploy project\n```\nnpm run deploy\n```",
+        "summary": "Quick collection of all commands available for you in the package.json",
+        "component": "doc"
+      },
+      "slug": "npm-commands",
+      "full_slug": "v1/guide/npm-commands",
+      "sort_by_date": null,
+      "position": 50,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 98219,
+      "meta_data": null,
+      "group_id": "b5385f29-9bd6-407d-b410-3109ae8b7b3f"
+    },
+    {
+      "name": "Image Optimization",
+      "created_at": "2018-04-09T20:05:13.226Z",
+      "published_at": "2018-04-11T13:16:59.425Z",
+      "alternates": [],
+      "id": 99274,
+      "uuid": "7a87e32c-5404-477c-a939-66d263b41172",
+      "content": {
+        "_uid": "271e64b8-b052-4abc-adb9-a7d9830e574d",
+        "content": "The default Setup of NuxtDoc uses the Image Service provided by Storyblok. You can use it to resize images on the fly! With [Storybloks out of the box image service](https://www.storyblok.com/) you can give your customers a high-quality, compelling brand experience at a speed they wouldn’t expect, no matter what device, platform or continent they’re on.\n\n## Installation\n\nYou won’t have to install anything to use our Image Service - there are no requirements to your system to increase your performance. Since we're using Storyblok as our headless CMS and therefore also upload our images to their platform all we have to do is to implement a quick helper to do so. Have a look at [their documentation](https://www.storyblok.com/docs/image-service) to see some of the possibilities.\n\n## Simple resizing example\n\n```\nfunction resize(image, option) {\n  let imageService = '//img2.storyblok.com/'\n  let path = image.replace('//a.storyblok.com', '')\n  return imageService + option + path\n}\n\nlet example = '//a.storyblok.com/f/39898/1000x664/ab64dad3bc/flowers.jpg'\nconsole.log(resize(example, '500x500'))\n// Will give you //img2.storyblok.com/500x500/f/39898/1000x664/ab64dad3bc/flowers.jpg\n```\n \nYou can have a look at the NuxtDoc implementation in `/plugins/helper.js` – `resizeImages` function. We currently use it to resize the images added in the `content` field of your `doc` content-types to fit the `600px` of the actual area to improve performance.",
+        "summary": "The default Setup of NuxtDoc uses the Image Service provided by Storyblok. You can use it to resize images on the fly! With [Storybloks out of the box image service](https://www.storyblok.com/) you can give your customers a high-quality, compelling brand experience at a speed they wouldn’t expect, no matter what device, platform or continent they’re on.",
+        "component": "doc"
+      },
+      "slug": "image-optimization",
+      "full_slug": "v1/features/image-optimization",
+      "sort_by_date": null,
+      "position": 60,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "13091de0-0a17-47d6-a535-98d678b70045"
+    },
+    {
+      "name": "Autogenerated Sidebar",
+      "created_at": "2018-04-09T20:04:53.938Z",
+      "published_at": "2018-04-11T13:16:59.405Z",
+      "alternates": [],
+      "id": 99273,
+      "uuid": "6af11804-1e5e-4447-b528-05e64a281854",
+      "content": {
+        "_uid": "2414d4a8-6085-4d54-9d60-17de0fad9f67",
+        "content": "The sidebar on your left is completely autogenerated by the content-entries created in Storyblok. All you have to care about is which `categories` you want and the order of your `doc` content entries, thats it.\n\n## Default Sidebar\n\nThe default Sidebar implementation follows the concept shown below:\n\n![Sidebar](//a.storyblok.com/f/43760/1200x1156/5e6f3b1f8d/sidebar.jpg)\n\n## Structure Concept\n\n- **Category**\n  - Doc (active)\n    - h2\n     - h3\n    - h2\n  - Doc\n  - Doc\n  - Doc\n  - Doc\n- **Category** \n  - Doc\n  - ...\n\n## Customized Sidebar\n\nYou can customize the Sidebar however you like. Simple change the `/components/Sidebar.vue` to align with your needs. The site/folder tree will be loaded in the Vuex store: `/store/index.js` – `SET_SITEMAP`.",
+        "summary": "The sidebar on your left is completely autogenerated by the content-entries created in Storyblok. All you have to care about is which `categories` you want and the order of your `doc` content entries, thats it.",
+        "component": "doc"
+      },
+      "slug": "autogenerated-sidebar",
+      "full_slug": "v1/features/autogenerated-sidebar",
+      "sort_by_date": null,
+      "position": 70,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "021bd6d2-16be-4891-973b-3019d75ce9cc"
+    },
+    {
+      "name": "Documentation Entries",
+      "created_at": "2018-04-09T20:04:30.258Z",
+      "published_at": "2018-04-11T13:16:59.297Z",
+      "alternates": [],
+      "id": 99272,
+      "uuid": "73a34a47-9530-4d41-80e9-1bc335483d28",
+      "content": {
+        "_uid": "b91fea6a-81c4-4076-9608-208d6c5e2680",
+        "content": "The `doc` content-type is the heart of NuxtDoc. The basic setup ships with a `version` and a `category` folder. By having a look at the Nuxt `/pages` folder you can see that the basic setup will allow you to add `doc` content-types in the third level: `version/category/doc`.\n\n## Example: NuxtDoc\n\nLets have a look at the sidebar of this documentation. The version is above everything, currently only showing up in the URL as `v1`. The next part of the URL is the category which will also be displayed bold in the sidebar. Those are some of those categories:\n\n- Guide\n- Ecosystem\n- Features\n- ...\n\nEvery entry below each `category` in the sidebar is one `doc` content-entry in that category folder in Storyblok.\n\n## The actual content\n\nThe actual content for your documentation is – by default – written in Markdown. Each `h2` and `h3` will result into another sidebar navigation item to make navigation of larger documentation parts much easier.",
+        "summary": "The `doc` content-type is the heart of NuxtDoc. The basic setup ships with a `version` and a `category` folder. By having a look at the Nuxt `/pages` folder you can see that the basic setup will allow you to add `doc` content-types in the third level: `version/category/doc`.",
+        "component": "doc"
+      },
+      "slug": "documentation-entries",
+      "full_slug": "v1/features/documentation-entries",
+      "sort_by_date": null,
+      "position": 80,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "99bdeef1-9cae-4e52-8f6f-02ed73292162"
+    },
+    {
+      "name": "Category Overview",
+      "created_at": "2018-04-09T20:04:22.565Z",
+      "published_at": "2018-04-11T13:16:59.303Z",
+      "alternates": [],
+      "id": 99271,
+      "uuid": "1caa1cab-90d9-46bd-9639-fc80547898cc",
+      "content": {
+        "_uid": "19a2aaed-6ec9-4281-b5c0-8db0f64cab4b",
+        "content": "One category overview will use the summary field of each `doc` content-entry to automatically generate an overview, so you don't have to think about it, however if you want to customize it have a look below.\n\n![Category Overview](//a.storyblok.com/f/43760/2432x1530/72ada48f5a/category-overview.jpg)\n\n## How this works\n\nThe category overview – by default – will load the `summary` field from all `doc` content-entries inside of the category folder created in Storyblok. So by adding a new folder inside the version folder in Storyblok – `v1/another-category` – will result in an overview page with exactly that path.\n\nYou can find the source code for those category overview pages in your forked project.\n\nHave a look at: `/pages/_version/_category/index.vue` it contains the following lines of code to load the entries depending on the current context parameters made available to you by the routing of Nuxt.\n\n```\nasync asyncData (context) {\n    const { data } = await context.app.$storyapi.get(`cdn/stories/`, { \n        starts_with: `${context.params.version}/${context.params.category}/`,\n        version: 'draft' })\n    return { docs: data.stories, \n             currentPage: `${context.params.version}/${context.params.category}` }\n  }\n```",
+        "summary": "One category overview will use the summary field of each `doc` content-entry to automatically generate an overview, so you don't have to think about it, however if you want to customize it have a look below.",
+        "component": "doc"
+      },
+      "slug": "category-overview",
+      "full_slug": "v1/features/category-overview",
+      "sort_by_date": null,
+      "position": 90,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "7f811568-c364-49ca-ab26-6bb0e7a3b1d9"
+    },
+    {
+      "name": "Custom Startpage",
+      "created_at": "2018-04-09T20:03:48.784Z",
+      "published_at": "2018-04-11T13:16:59.403Z",
+      "alternates": [],
+      "id": 99269,
+      "uuid": "fb9c9536-6e2b-416f-9e3a-fe9412e267dc",
+      "content": {
+        "_uid": "7e47d07c-8b82-4d38-8992-a446330857de",
+        "content": "The startpage of NuxtDoc is fully customizable with NuxtJs Components and Storyblok. We've prepared three different nestable components for you to start with. \n\n## Concept\n\nStoryblok is a headless CMS that not only allows you to create new content-types, but also allows you to create *sets of reusable fields*, so called components, to create layouts like *grid* and *columns*.\n\n## Default Components\n\n### Teaser\n\n![Teaser Component](//a.storyblok.com/f/43760/3358x1898/fca0a8dbc5/teaser.jpg)\n\nThe teaser component added in the default setup allows you to exchange the `background_image`, `title` and `subtitle` as well as the `button_link` and `button_text` of the first button. \n\n### Grid\n\n![Grid Component](//a.storyblok.com/f/43760/3358x1898/8ad757487a/grid.jpg)\n\nThe grid is a quite simple `flexbox` implementation of a grid, breaking into simple rows if the `width` of your screen drops below `780px`.\n\n### Feature\n\n![Feature Component](//a.storyblok.com/f/43760/3360x1896/75817bbcd5/feature.jpg)\n\nThe feature component allows you to add a `name`, `logo`, `description` and `link`. Each feature component nested inside the `Grid` will be aligned next to each other.\n\n## Default Content-Types\n\n### Page\n\nThe page content typ is currently only used for the startpage, and only has one field of type `bloks` which allows you to nest the components described above.\n\n### Doc\n\nOne doc content entry consists of a `content` and a `summary` field. The content will be the actual markdown content. It will also be used to create the on page navigation in the sidebar.\n\n## Extensible\n\nYou can change all content types and components as you like, we recommend you to have a look at [Storybloks tutorials](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial) on how to work with those components and/or a [youtube series done by academind](https://www.youtube.com/watch?v=Dc_5BpIB4X4&t=1s).",
+        "summary": "The startpage of NuxtDoc is fully customizable with NuxtJs Components and Storyblok. We've prepared three different nestable components for you to start with. ",
+        "component": "doc"
+      },
+      "slug": "customizable-startpage",
+      "full_slug": "v1/features/customizable-startpage",
+      "sort_by_date": null,
+      "position": 100,
+      "tag_list": [],
+      "is_startpage": false,
+      "parent_id": 99171,
+      "meta_data": null,
+      "group_id": "e349c15e-d64f-4995-baff-def461a42e75"
+    }
+  ]
+}

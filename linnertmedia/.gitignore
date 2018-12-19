@@ -1,0 +1,7 @@
+node_modules
+.nuxt
+dist
+docs
+static/_posts
+*.log
+*.code-workspace

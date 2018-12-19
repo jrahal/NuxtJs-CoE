@@ -1,0 +1,44 @@
+@media all and (min-width: 1px) and (max-width: 1000px)
+  .page.page_init > .page_content
+    padding 0
+    > .section
+      &.section_top
+        height auto
+        min-height 100vh
+        overflow hidden
+        > .inner
+          > .copys
+            position static
+            margin auto
+            margin-top 120px
+            max-width 300px
+            > .copy:nth-child(2)
+              font c3
+              line-height 30px
+            > .cta
+              margin 20px 0 0 0
+            top 20px
+            left 20px
+      &.section_about
+        margin 30px auto
+        width auto
+        > .logos
+          padding 30px 0
+          width auto
+          > a
+            display block
+        > .copy:nth-child(3)
+          line-height 30px
+          width auto
+          font h3
+          padding 0 20px 30px 20px
+      &.section_about, &.section_sources > .inner
+        > .copys
+          column-count 1
+          column-gap 0px
+          > .block
+            padding 20px
+      &.section_sources
+         > .inner
+           width auto
+

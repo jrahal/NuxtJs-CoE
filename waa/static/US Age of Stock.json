@@ -1,0 +1,28 @@
+{
+  "sheet": "US Age of Stock",
+  "data": {
+    "Total U.S.": [
+      3852417,
+      5656175,
+      5699621,
+      3650516,
+      null,
+      null,
+      null,
+      null,
+      "Time Period: 2016"
+    ],
+    "": [
+      0.20427765837241735,
+      0.2999234465907008,
+      0.3022272073584598,
+      0.193571687678422
+    ]
+  },
+  "labels": [
+    "Apartments Built Before 1959",
+    "Apartments Built 1960 to 1979",
+    "Apartment Built 1980 - 1999",
+    "Apartments Built 2000 or Later"
+  ]
+}

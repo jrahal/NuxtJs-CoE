@@ -1,0 +1,100 @@
+#Navigate
+  top 0
+  right 0
+  overflow hidden
+  z-index 20
+  position fixed
+  &.sticky
+    transform translate(20px, -20px)
+  > .inner > .cbutton > .icon
+    display none
+  &.on
+    width calc(100vw + 10px)
+    height calc(100vh + 10px)
+    > .blue
+      transform scale(30)
+      transition transform 0.5s ease-in-out 0s
+    > .inner > .cbutton
+      transition background 0.5s ease-in-out 0s, color 0.5s ease-in-out 0s
+      background-color white
+      color casal
+      > .copy.copy_menu
+        display none
+      > .icon.icon_menu
+        display none !important
+    > .inner > .content
+      opacity 1
+      transition opacity 0.1s ease-in-out 0.3s
+  &.off
+    width 140px
+    height 140px
+    transition width 0s linear 0.6s, height 0s linear 0.6s, transform 1s cubic-bezier(.87,-0.41,.19,1.44) 0s
+    > .blue
+      transform scale(1)
+      transition transform 0.3s ease-in-out 0s
+    > .inner > .cbutton
+      transition background 0.5s ease-in-out 0s, color 0.5s ease-in-out 0s
+      color white
+      background repeating-linear-gradient(
+        -45deg,
+        shark,
+        shark 4px,
+        bastille 4px,
+        bastille 8px
+      )
+      > .copy.copy_close
+        display none
+      > .icon.icon_close
+        display none !important
+    > .inner > .content
+      opacity 0
+      transition opacity 0.1s ease-in-out 0.1s
+
+  > .blue
+    position absolute
+    background-color bigstone
+    width 140px
+    height 140px
+    top -10px
+    right -10px
+    border-radius 50%
+  > .inner
+    position absolute
+    top 0
+    right 0
+    width 100vw
+    height 100vh
+    > .cbutton
+      width 140px
+      height 140px
+      position absolute
+      cursor pointer
+      top -10px
+      right -10px
+      text-align center
+      line-height 140px
+      border-radius 50%
+      transition background-color 0.2s ease-in-out 0.2s
+      user-select none
+      > .copy:hover
+        text-decoration underline
+    > .content
+      > .title > a
+        color white
+      > .menu
+        float right
+        margin 120px 120px 0 0
+        font h2
+        line-height 50px
+        > .option 
+          text-align right
+          margin 20px 0
+          > a
+            padding 0 20px
+            color white
+            transition background-color 0.2s ease-in-out 0.01s
+            &.nuxt-link-exact-active
+              background-color rgba(lightblue, 0.5)
+            &:hover
+              background-color rgba(lightblue, 0.2)
+

@@ -1,0 +1,409 @@
+.page.page_calc
+  > .page_content
+    margin 0 0 0 0
+    background-color tomato
+    background-image linear-gradient(182deg, #e441e4, #0054d8)
+    padding 60px 0
+    > .inner
+      //background-color white
+      border-radius 5px
+      width 1000px
+      margin 0 auto
+      padding 60px 0
+      margin 150px auto 0 auto
+
+.calculator
+  margin auto
+  width 720px
+  > .header
+    animation fadeIn 0.5s ease-in-out 0s both
+    > .copy
+      color white
+      text-align center
+      > p:nth-child(1)
+        font c1
+        text-transform uppercase
+      > p:nth-child(2)
+        font h2
+  > .params
+    margin 30px 0
+    width 490px
+    margin auto
+    > .param
+      border-bottom 1px solid lightblue
+      &:last-child
+        border-bottom 1px solid transparent
+      padding 30px 0
+      animation fadeIn 0.5s ease-in-out 0s both
+      for i in 1..3
+        &:nth-child({i})
+          animation-delay unit((0.02*i), 's')
+      > .label
+        color white
+        float left
+        font c1ss
+        text-transform uppercase
+        width 100px
+        height 100px
+        text-align right
+        > .copy
+          padding 5px 20px 0 0
+      > .options
+        margin 0 0 0 95px
+        padding 10px
+        border-radius 6px
+        border 1px solid transparent
+        transition border 0.5s ease-in-out 0s
+        &.error
+          border 1px solid tomato
+        &.success
+          border 1px solid green
+        > .option
+          padding 10px
+          border-radius 6px
+          cursor pointer
+          transition background-color 0.1s linear 0.1s
+          > .copy
+            font c3
+            color white
+            transition color 0.1s linear 0s
+            line-height 30px
+          > .checkbox
+            float right
+            width 30px
+            height 30px
+            border 2px solid white
+            border-radius 3px
+            line-height 30px
+            transition border 0.1s linear 0s
+            > .fa
+              margin 0 0 0 0px
+              color white
+              display none
+          &.selected
+            > .checkbox
+              border 2px solid black
+              background-color black
+              > .fa
+                display inline-block
+          &:hover
+            > .copy
+              color lightpurple
+            > .checkbox
+              border 1px solid lightpurple
+        > .input
+          > input
+            transition border 0.5s ease-in-out 0s
+            border-radius 3px
+            border 1px solid transparent
+            background-color rgba(white, 0.17)
+            font c3
+            width 337px
+            outline none
+            padding 15px
+            color white
+            &::placeholder
+              color rgba(white, 0.4)
+            &.error
+              border 1px solid tomato
+            &.success
+              border 1px solid green
+        > .copy
+          font c3
+          margin 0 0 20px 0
+        > .pulldowns
+          > .pulldown
+            margin 0 0 10px 0
+            &:last-child
+              cursor pointer
+            &:hover
+              > .pullarea
+                background-color rgba(white, 0.5)
+            &.selected
+              > .checkbox
+                border 2px solid black
+                background-color black
+                > .fa.fa-check
+                  display inline-block
+              > .pullarea
+                > .select
+                  > select
+                    color white
+                > .pull
+                  border-left 1px solid rgba(white, 0.5)
+            > .checkbox
+              float left
+              width 30px
+              height 30px
+              border 2px solid white
+              border-radius 3px
+              line-height 30px
+              transition border 0.1s ease 0s
+              margin 10px 0 0 0
+              > .fa.fa-check
+                color white
+                margin 0 0 0 0px
+                display none
+            > .pullarea
+              background-color rgba(white, 0.17)
+              transition background-color .2s ease 0s
+              border 1px solid transparent
+              border-radius 3px
+              margin 0 0 0 50px
+              position relative
+              > .copy
+                user-select none
+                color white
+                font c3
+                padding 15px
+              > .select
+                position relative
+                height 50px
+                width 327px
+                > select
+                  z-index 2
+                  position absolute
+                  top 0
+                  left 0
+                  font c3
+                  color white
+                  border none
+                  cursor pointer
+                  background-color transparent
+                  -webkit-appearance none
+                  width 368px
+                  padding 15px 15px 15px 45px
+                  margin 0 0 0 -32px
+                  outline none
+                  > option
+                    background-color white
+                    padding 15px
+              > .pull
+                z-index 1
+                position absolute
+                top 0
+                right 0
+                padding 15px 15px 15px 25px
+                border-left 1px solid lightblue
+                font c3
+                > .fa
+                  margin 0 10px 0 0
+                  color white
+  > .cta
+    display block
+    text-decoration none
+    color white
+    cursor pointer
+    background-color rgba(black, 0.37)
+    width 170px
+    padding 14px 0
+    border-radius 3px
+    text-transform uppercase
+    animation fadeIn 0.2s ease-in-out 0.3s both
+    font c1b
+    text-align center
+    margin 0 auto
+    transition transform 0.5s ease-in-out 0.2s
+    &:hover
+      transition transform 0.2s ease-in-out 0s
+      transform scale(1.05)
+.fade
+  background-color rgba(black, 0.9)
+  position absolute
+  top 0
+  left 0
+  bottom 0
+  right 0
+  width 100vw
+  height 2500px
+  animation fadeIn 0.5s ease-in-out 0.2s both
+  &.on
+    display block
+  &.off
+    display none
+
+.calculated
+  background-color white
+  border-radius 6px
+  position absolute
+  width 1000px
+  top 200px
+  left 50%
+  margin-left -500px
+  animation zoomIn 0.3s ease 0.3s both
+  // animation-timing-function: cubic-bezier(.87,-.41,.19,1.44)
+  &.on
+    display block
+  &.off
+    display none
+  > .inner
+    width inherit
+    position relative
+    > .source
+      position absolute
+      top 10px
+      right 5px
+      font c1s
+      color grey
+      clear both
+      display none
+    > #Share
+      position absolute
+      top 110px
+      right 60px
+
+    > .close
+      cursor pointer
+      position absolute
+      top  -30px
+      right -30px
+      background-color blue
+      width 60px
+      height 60px
+      border-radius 50%
+      line-height 70px
+      text-align center
+      transition transform 0.5s ease-in-out 0.2s
+      &:hover
+        transition transform 0.2s ease-in-out 0s
+        transform scale(1.05)
+      color white
+      text-decoration none
+    > .copy:nth-child(4)
+      padding 60px 0 20px 0
+      font c1sb
+      text-transform uppercase
+      color grey
+      text-align center
+    > .copy:nth-child(5)
+      text-align center
+      font h2
+    > .data
+      padding 60px 0
+      margin 60px
+      border-top 2px solid lightgrey
+      border-bottom 2px solid lightgrey
+      > .inner
+        width 420px
+        margin auto
+        > .copy
+          color grey
+        > .copy:nth-child(1)
+          color tomato
+        > .copy.copy_header
+          font h1
+          color black
+          padding 40px 0 20px 0
+        > .copy_body
+          color grey
+          width 300px
+          padding 0 0 30px 0
+        > .stat
+          width 380px
+          border-radius 6px
+          padding 5px 10px
+          > .copy
+            float left
+          > .value
+            float right
+            color grey
+          &.colored
+            margin 30px 0 0 0
+            > .copy
+              color white
+            > .value
+              color white
+          &.tomato
+            background-color tomato
+          &.yellow
+            background-color yellow
+          &.green
+            background-color green
+          &.blue
+            background-color blue
+        > .logos
+          display none
+          
+
+@media print 
+  .page.page_calc
+    font-size 14px
+    > .page_content
+      margin 0
+      background none
+      > .inner
+        padding 0
+        width auto
+  #Top
+    display none
+  #Bottom
+    display none
+
+  .fade
+    display none !important
+  header#Top
+    display none
+  nav
+    display none
+  .calculator
+    > .cta
+      display none
+
+  .calculated
+    width 100vw
+    top 0
+    left 0
+    right 0
+    margin-left 0px
+    margin auto
+    > .inner > .pdf
+      display none
+    > .inner > .source
+      display none
+    > .inner > .close
+      display none
+    > .inner
+      > .copy:nth-child(4)
+        display none !important
+      > .copy:nth-child(5)
+        font h1
+      > .copy:nth-child(6)
+        padding 10px 0 10px 0
+      > .data
+        padding 10px 0
+        margin 10px 0
+      > .data > .inner > .copy_header
+        padding 0 !important 
+      > .data >.inner > .copy_body
+        padding 0px
+      > .data >.inner > .stat.colored
+        margin 10px 0 0 0
+      > .data
+        > .inner
+          width 750px
+          > .copy:first-child
+            text-align center
+          > .copy
+            width auto
+          > .copy.copy_header
+            font c1b
+          > .stat
+            width auto
+            padding 4px 10px
+          > .copy:nth-child(20)
+            display none
+          > .copy:nth-child(22)
+            display none
+          > .copy:nth-child(23)
+            display none
+
+          > .logos
+            display block
+            height 20px
+            margin 10px auto 0 auto
+            text-align right
+            > img
+              height 30px
+
+
+

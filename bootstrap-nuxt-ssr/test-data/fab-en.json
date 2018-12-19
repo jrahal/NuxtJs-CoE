@@ -1,0 +1,876 @@
+{
+  "Header": {
+    "Title": "Fast Access Blockchain (FAB)",
+    "Language": "Language",
+    "Navigation": {
+      "Home": "Home",
+      "Project": "Project",
+      "News": "News",
+      "Blog": "Blog",
+      "Ambassador": "Ambassador",
+      "Help": "Help",
+      "Career": "Careers",
+      "Contact": "Contact us",
+      "Signin": "Sign In",
+      "Signout": "Sign Out",
+      "Signup": "Sign Up",
+      "Account": {
+        "UserInfo": "User Info",
+        "AccountDetails": "Account Details",
+        "FabCoin": "FAB Coin",
+        "Kyc": "KYC"
+      }
+    }
+  },
+  "Footer": {
+    "Navigation": {
+      "Home": "Home",
+      "Project": "Project",
+      "News": "News",
+      "Blog": "Blog",
+      "Ambassador": "Ambassador",
+      "Help": "Help",
+      "Career": "Career",
+      "Contact": "Contact us",
+      "Subscribe": "Subscribe to our Newsletter"
+    },
+    "AddressItem1": "FAB Foundation",
+    "AddressItem2": "68 West Bay Road Cayman Islands",
+    "AddressItem3": "Technical Partner: FA Enterprise System Inc.",
+    "AddressItem4": "215-7300 Warden Avenue, Markham ON L3R9Z6 Canada ",
+    "Right": "© 2018 Fast Access Blockchain Foundation. All Rights Reserved",
+    "Title": "Fast Access Blockchain"
+  },
+  "Home": {
+    "Top": {
+      "Title": "The Next-Gen Blockchain Protocol Built to Meet Real Business Needs",
+      "ButtonCTA": "Learn More",
+      "WalletCTA": "Download our Wallet App",
+      "ExchangesCTA Text": "Listed On:",
+      "ExchangesCTA": {
+        "Line1": "Coinbene Exchange",
+        "Line2": "Coming soon to OKEx"
+      }
+    },
+    "Overview": {
+      "Title": "What is FAB?",
+      "ParagraphItem1": "FAB is a next generation blockchain application platform that aims to fast-track the adoption of decentralized technology. Our Main Net is live.",
+      "Icon1": {
+        "Subtitle": "Scalable",
+        "Desc": "Up to 1 million transactions per second for quick payment settlements and data transfers"
+      },
+      "Icon2": {
+        "Subtitle": "Powerful",
+        "Desc": "Interoperability with other blockchains, with faster validation of transactions and more than 1 million gigabytes of storage"
+      },
+      "Icon3": {
+        "Subtitle": "Accessible",
+        "Desc": "FAB has a development layer that makes blockchain application development and onboarding quick and easy"
+      },
+      "Video1": "How FAB Works",
+      "Video2": "What is FABcoin?",
+      "Video3": "FAB: Public Blockchain Network",
+      "ParagraphItem2": "FAB solves the big problems that prevent mass adoption of blockchain technology. FAB is progress."
+    },
+    "ProblemSolution": {
+      "Title": "Problem & Solution",
+      "ParagraphItem1": "Blockchains have the potential to completely change the face of how we interact around the world through decentralization, increased trust, security and transparency.",
+      "ParagraphItem2": "Legacy blockchains' low transaction throughput and high transaction costs  make them ill suited for large-scale application uses.",
+      "ParagraphItem3": "We are building a high performance platform that is decentralized, easy to use, reliable and scalable so you can develop your ideas without worrying about blockchain complexities, transaction costs or network congestion. FAB provides the performance and functionality necessary for building smart decentralized applications for any industry and need."
+    },
+    "Features": {
+      "Title": "Features",
+      "ParagraphItem": "We’ve re-imagined what the blockchain can be and accomplish for application developers.",
+      "Feature1": {
+        "Title": "Powerful Scalability",
+        "Desc": "A scalable platform which may reach millions of transactions per second"
+      },
+      "Feature2": {
+        "Title": "Application Resources",
+        "Desc": "An application layer for easy development and pre- built applications on top of the FAB architecture including supply chain and e-marketplace apps are available"
+      },
+      "Feature3": {
+        "Title": "Public Blockchain",
+        "Desc": "A public blockchain network that gives equal access to everyone, open to the public to participate freely as  nodes"
+      },
+      "Feature4": {
+        "Title": "Unified Frameworks",
+        "Desc": "Only 1 wallet needed for all applications. Unified frameworks speed blockchain adoption and application development for business requirements"
+      },
+      "Feature5": {
+        "Title": "Universal Protocols",
+        "Desc": "Well designed protocols that allow for cross chain transactions and interoperability with other blockchains"
+      },
+      "Feature6": {
+        "Title": "Real Business Use",
+        "Desc": "The FAB network is not only for value transactions, it also transacts data for business affairs such as files, video and documents"
+      },
+      "Feature7": {
+        "Title": "Smart Contracts",
+        "Desc": "FAB has smart contracts which allow for automated contracts and reconciliation in an open ecosystem that truly belongs to the public"
+      },
+      "Feature8": {
+        "Title": "Shaping the Future",
+        "Desc": "FAB's powerful architecture and breakthrough innovations will reshape the future"
+      }
+    },
+    "Fabcoin": {
+      "Title": "FABcoin",
+      "ParagraphItem1": "FABcoin is the base currency in the Fast Access Blockchain network. There is a fixed total of 200 million coins, of which 8 million are reserved for development and marketing, 24 million were distributed through sales, and the remaining 168 million are to be produced by mining in over 60 years.",
+      "CoinName": "Coin Name",
+      "Fabcoin": "FABcoin",
+      "CoinCode": "Coin Code",
+      "CoinSymbol": "Coin Symbol",
+      "UseCase1": "Decentralized identity applications",
+      "UseCase2": "Proof of Existence",
+      "UseCase3": "Next generation finance system",
+      "UseCase4": "DAO organization management",
+      "UseCase5": "Serve Internet-of-Things",
+      "UseCase6": "Build decentralized marketplace",
+      "UseCase7": "Digital assets and copyright protection",
+      "UseCase8": "Decentralized supply chain management"
+    },
+    "BlockchainComparison": {
+      "Title": "Blockchain Comparison"
+    },
+    "Roadmap": {
+      "Title": "Roadmap",
+      "Timestamp1": {
+        "Title": "September 2014",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "Company FA Enterprise System Inc. founded and blockchain research commences"
+        }
+      },
+      "Timestamp2": {
+        "Title": "February 2015",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "FA Enterprise System Inc. developed a blockchain based app diyplant.com. Designed a decentralized business logic Developed IP process model."
+        }
+      },
+      "Timestamp3": {
+        "Title": "January 2016",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "The company created their 1st Version of a blockchain design architecture based on Bitcoin"
+        }
+      },
+      "Timestamp4": {
+        "Title": "October 2016",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "Started 2nd version design. Decided on using a composition model with three components: foundation chain model, annex chain model and decentralized storage with client wallet and 3rd party storage service"
+        }
+      },
+      "Timestamp5": {
+        "Title": "June 2017",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "KanBan concept introduced, SCAR concept created for annex chain. Transaction conversion format decided. Authentication & authorization model designed"
+        }
+      },
+      "Timestamp6": {
+        "Title": "October 2017",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "2nd Version of design architecture is created that introduces the KanBan and SCAR innovations"
+        }
+      },
+      "Timestamp7": {
+        "Title": "November 2017",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "The Fast Access Blockchain White Paper is completed and development of the project begins"
+        }
+      },
+      "Timestamp8": {
+        "Title": "February 2018",
+        "Desc": {
+          "SubTitle": "TGE CAMPAIGN BEGINS",
+          "Content": "TGE plans and rules released. Legal process finished and FAB Foundation is created. Process and management website for TGE launched. Marketing process began and partnered with 3rd party marketers."
+        }
+      },
+      "Timestamp9": {
+        "Title": "March 2018",
+        "Desc": {
+          "SubTitle": "FOUNDATION CHAIN COMPLETE",
+          "Content": "The first stage of the white paper is completed: The Foundation Chain. Testing of the full node compatibility and all features in the Foundation Chain was done. Mining begins and mining pools form"
+        }
+      },
+      "Timestamp10": {
+        "Title": "April 2018",
+        "Desc": {
+          "SubTitle": "",
+          "Content": "FAB Wallets are created and website features implemented. First minor partnerships are signed."
+        }
+      },
+      "Timestamp11": {
+        "Title": "May 2018",
+        "Desc": {
+          "SubTitle": "FABCOIN GOES ON EXCHANGES",
+          "Content": ""
+        }
+      },
+      "Timestamp12": {
+        "Title": "June 2018",
+        "Desc": {
+          "SubTitle": "ANNEX CHAIN PROTOCOL COMPLETE",
+          "Content": "The second stage of the white paper, the Annex Chain, is completed. Testing of KanBan, Annex transaction loads and double spending prevention undertaken"
+        }
+      },
+      "Timestamp13": {
+        "Title": "August 2018",
+        "Desc": {
+          "SubTitle": "UNIVERSAL MIDDLEWARE FRAMEWORKS TESTED",
+          "Content": "Testing of all 4 Middle Frameworks that allow for easy application building and logic"
+        }
+      },
+      "Timestamp14": {
+        "Title": "September 2018",
+        "Desc": {
+          "SubTitle": "THE FORCE",
+          "Content": "The official FAB scheduled fork of the Foundation Chain occurs. New coin is created which provides more useful value to holders. All features of the coin and network are implemented"
+        }
+      },
+      "Timestamp15": {
+        "Title": "October 2018",
+        "Desc": {
+          "SubTitle": "APPLICATIONS TESTING",
+          "Content": "Creation and Testing of apps for E-Commerce, Supply Chain & Payments"
+        }
+      },
+      "Timestamp16": {
+        "Title": "January 2019",
+        "Desc": {
+          "SubTitle": "PRODUCTION LAUNCH",
+          "Content": "The network is fully complete and running with multiple applications, mining becomes adopted by major mining pools and large-scale enterprises begin creating and using applications on the network"
+        }
+      }
+    },
+    "OurTeam": {
+      "Title": "Our Team",
+      "SubTitle1": "The Advisory Board",
+      "Members1": {
+        "Member1": {
+          "Name": "Brad Nickel",
+          "Title": "Business & Marketing Consultant",
+          "Desc": {
+            "ListItem1": "Technology, and Business Consultant",
+            "ListItem2": "Startups and innovation specialist",
+            "ListItem3": "Crypto-currency & Blockchain expert",
+            "ListItem4": "Adjunct professor - Florida International University",
+            "ListItem5": "Partner at Blacknox Crypto Hodling Co."
+          }
+        },
+        "Member2": {
+          "Name": "Sead Muftic",
+          "Title": "CEO at Blockchain Information Exchange Security Corp",
+          "Desc": {
+            "ListItem1": "Blockchain security expert",
+            "ListItem2": "Professor - The Royal Institute of Technology",
+            "ListItem3": "CEO of Setecs Inc.",
+            "ListItem4": "Chairman & CEO at Entegrity Solutions"
+          }
+        },
+        "Member3": {
+          "Name": "David Murry",
+          "Title": "Blockchain Specialist",
+          "Desc": {
+            "ListItem1": "Founder & CEO at Kainui Canoe",
+            "ListItem2": "Blockchain Specialist at Blockchain Competence Center",
+            "ListItem3": "Book Author of Blockchain Disruption - Creating a Decentralized and Distributed World",
+            "ListItem4": "BlockchainNews.com creator"
+          }
+        },
+        "Member4": {
+          "Name": "Dr. Steven F. Browdy",
+          "Title": "Science & Technology Consultant",
+          "Desc": {
+            "ListItem1": "Ph.D. in Mathematics, education and software expert",
+            "ListItem2": "Member of the Global Earth Observation System of Systems(GEOSS)",
+            "ListItem3": "Invoved in National Science Foundation-sponsored EarthCube",
+            "ListItem4": "Chair of the Standards and Interoperability Forum",
+            "ListItem5": "Research Group Research Data Alliance (RDA) and IEEE.",
+            "ListItem6": "Standards Association P1931.1 Network, Security and Blockchain Editor within NASA"
+          }
+        }
+      },
+      "SubTitle2": "Management Team",
+      "Members2": {
+        "Member1": {
+          "Name": "Paul Liu",
+          "Title": "Founder & President",
+          "Desc": {
+            "ListItem1": "Chief Blockchain Specialist",
+            "ListItem2": "Former China UnionPay Financial Network G. Manager",
+            "ListItem3": "CEO of BaoSell Supply-chain & E-commerce",
+            "ListItem4": "Caterpillar MIS & Supply-chain Advanced Technology Consultant",
+            "ListItem5": "Owner of a series of inventions on blockchain"
+          }
+        },
+        "Member2": {
+          "Name": "Mohamed El Kandri",
+          "Title": "CEO",
+          "Desc": {
+            "ListItem1": "MBA, Master in Technology Entrepreneurship and Innovation",
+            "ListItem2": "Blockchain expert and keynote speaker",
+            "ListItem3": "Durland Innovation Award Recipient (Blockchain)",
+            "ListItem4": "Beta Gamma Sigma Award Holder",
+            "ListItem5": "Strategic Initiatives Lead at The BlockchainHub – York University",
+            "ListItem6": "C-Lab Incubation Program (Blockchain) Lead at The BlockchainHub – York University",
+            "ListItem7": "Member of the Global Blockchain Consortium",
+            "ListItem8": "IBM Blockchain Certified"
+          }
+        },
+        "Member3": {
+          "Name": "Liza Horowitz",
+          "Title": "CMO/CIO",
+          "Desc": {
+            "ListItem1": "Master of Science, Environment and Communications",
+            "ListItem2": "Blockchain speaker and educator",
+            "ListItem3": "Advisor SPL Group – ATM and emerging technology",
+            "ListItem4": "Senior marketing and communication lead at Canadian Western Bank, Scotiabank and professional consultants",
+            "ListItem5": "Board Member and Canadian Director, Global Women in Blockchain",
+            "ListItem6": "Advisory Committee, Blockchain Software Development Post-Graduate Certificate Program, George Brown College"
+          }
+        },
+        "Member4": {
+          "Name": "Jason Hong",
+          "Title": "CTO",
+          "Desc": {
+            "ListItem1": "Gotrust Tech Software Engineer",
+            "ListItem2": "WinMagic Software Developer",
+            "ListItem3": "Hengbao Co. Senior Security Software Developer",
+            "ListItem4": "WatchData System Senior Software Developer",
+            "ListItem5": "ITS & S Software Developer"
+          }
+        },
+        "Member5": {
+          "Name": "Fred Li",
+          "Title": "Managing Director",
+          "Desc": {
+            "ListItem1": "MBA, Arizona State University",
+            "ListItem2": "Bipivot Program, Project Management",
+            "ListItem3": "MCIS IT Professional- Project Management",
+            "ListItem4": "SBTI Sr. Consultant- Process and Service Management",
+            "ListItem5": "Motorola Director- Global IT Service Delivery"
+          }
+        }
+      },
+      "SubTitle3": "Engineering",
+      "Members3": {
+        "Member1": {
+          "Name": "Sam Gong",
+          "Title": "Team Lead, Engineering"
+        },
+        "Member2": {
+          "Name": "Todor Milev",
+          "Title": "Senior C++ Programmer"
+        },
+        "Member3": {
+          "Name": "Ankit Shah",
+          "Title": "Senior Software Developer"
+        },
+        "Member4": {
+          "Name": "Nader Shiri",
+          "Title": "Senior Developer"
+        },
+        "Member5": {
+          "Name": "Jonathan Yan",
+          "Title": "Senior Developer"
+        },
+        "Member6": {
+          "Name": "Nadia S.C.",
+          "Title": "Full-Stack Developer"
+        },
+        "Member7": {
+          "Name": "Yanpei Li",
+          "Title": "Software Developer"
+        },
+        "Member8": {
+          "Name": "Xiao(Bill) Li",
+          "Title": "Software Developer"
+        },
+        "Member9": {
+          "Name": "Alex Vuong",
+          "Title": "Developer"
+        },
+        "Member10": {
+          "Name": "Adil Asim",
+          "Title": "Developer"
+        },
+        "Member11": {
+          "Name": "Jerome Alve",
+          "Title": "Developer"
+        }
+      },
+      "SubTitle4": "Marketing",
+      "Members4": {
+        "Member1": {
+          "Name": "Eugene Cofie",
+          "Title": "Product Manager",
+          "Desc": {
+            "ListItem1": "Western University Business Management Major",
+            "ListItem2": "Consumer Centre Inc. National Sales manager"
+          }
+        },
+        "Member2": {
+          "Name": "Sarah Wu",
+          "Title": "Head of Business Strategy"
+        },
+        "Member3": {
+          "Name": "Gloria Gomez",
+          "Title": "Multimedia Specialist"
+        },
+        "Member4": {
+          "Name": "Lorrie Liu",
+          "Title": "Lead Designer"
+        },
+        "Member5": {
+          "Name": "HuiQiang Yue",
+          "Title": "Chinese Community Assistant"
+        },
+        "Member6": {
+          "Name": "Mayank Roy",
+          "Title": "English Community Assistant",
+          "Desc": {
+            "ListItem1": "Infosys Technologies Senior Systems Engineer",
+            "ListItem2": "Selman & Associates, Ltd. Well-Site Geologist",
+            "ListItem3": "Paladin Geological Service LLC Well-Site Geologist",
+            "ListItem4": "University of Petroleum and Energy Studies",
+            "ListItem5": "New Mexico Institute of Mining and Technology"
+          }
+        }
+      }
+    }
+  },
+  "Ambassador": {
+    "Title": {
+      "ContentItem1": "FAB Ambassadors",
+      "ContentItem2": "Learn More"
+    },
+    "Sections": {
+      "AmbassadorIntro": {
+        "Title": "What is a FAB Ambassador?",
+        "Content": {
+          "ContentItem1": "Our Ambassadors represent FAB in the community. They inspire others and help spread blockchain knowledge."
+        }
+      },
+      "AmbassadorProfiles": {
+        "Title": "Meet Our Ambassadors",
+        "Content": {
+          "ContentItem1": "Your Name Here",
+          "ContentItem2": "We are accepting more ambassadors"
+        }
+      },
+      "ApplicationConfirmation": {
+        "Content": {
+          "ContentItem1": "Application Sent!",
+          "ContentItem2": "One of our FABulous employees will email you with more information"
+        }
+      },
+      "BecomeAmbassador": {
+        "Title": "Become a FAB Ambassador",
+        "Content": "Fill out the form below",
+        "FormFields": {
+          "FormField1": "Full Name",
+          "FormField2": "Email",
+          "FormField3": "City",
+          "FormField4": "Country",
+          "FormField5": "Social Media Handles or Website URL",
+          "FormField6": "Why do you want to become an FAB Ambassador?"
+        }
+      },
+      "AboutUs": {
+        "Title": "Who We Are",
+        "Content": {
+          "ContentItem1": "We believe in economic empowerment",
+          "ContentItem2": "We express our creativity in the technical realm",
+          "ContentItem3": "We believe in diversity of thought, of opinion and of people",
+          "ContentItem4": "We believe in the freedom to create our own future"
+        }
+      }
+    }
+  },
+  "Project": {
+    "Top": {
+      "Title": "The Next-Gen Blockchain Protocol Built to Meet Real Business Needs",
+      "Content": "FAB provides a comprehensive solution for individuals and businesses from all sectors to secure their future in the blockchain- powered economy. FAB is well-researched, finely designed and academically recognized.",
+      "ProjectFiles": {
+        "File1": {
+          "Text": "Read Project Whitepaper",
+          "Link": "https://fabcoin.co/assets/pdfs/FAB-whitepaper.pdf"
+        },
+        "File2": {
+          "Text": "Brochure",
+          "Link": "https://fabcoin.co/assets/pdfs/FAB-brochure.pdf"
+        },
+        "File3": {
+          "Text": "Read Technical Whitepaper",
+          "Link": "https://fabcoin.co/assets/pdfs/FAB-technical-wp-en.pdf"
+        }
+      },
+      "SocialMedia": {
+        "SocialMediaItem1": {
+          "Text": "Telegram Channel",
+          "Icon": "",
+          "Link": ""
+        }
+      }
+    },
+    "SectionWallet": {
+      "Title": "Fabcoin Wallet",
+      "Content": {
+        "ContentItem1": "The Fabcoin Wallet allows you to exchange value with friends, run decentralized applications and secure assets built on FAB.",
+        "ContentItem2": "Get the Fabcoin Wallet for your Mac, Windows or Ubuntu computer and mobile devices."
+      },
+      "Link": {
+        "LinkItem1": {
+          "Name": "Download the Fabcoin Wallet",
+          "URL": "http://fabcoin.pro/runtime.html"
+        }
+      }
+    },
+    "SectionExplorer": {
+      "Title": "Block Explorer",
+      "Content": {
+        "ContentItem1": "The block explorer allows you to view individual transactions, blocks and the block order within the Foundation Chain."
+      },
+      "Link": {
+        "LinkItem1": {
+          "Name": "Main Net",
+          "URL": "http://fabexplorer.info"
+        },
+        "LinkItem2": {
+          "Name": "Test Net",
+          "URL": "http://fabtest.info"
+        }
+      }
+    },
+    "SectionScalable": {
+      "Title": "Scalable Decentralized Applications for Enterprises",
+      "Content": {
+        "ContentItem1": "FAB is a decentralized public platform that runs smart contracts and can be used to build tamper-proof applications. Smart Contracts are cryptography based applications that run as programmed without the ability to be changed unless through majority consensus. Smart contracts are impervious to censorship, fraud or third-party change.",
+        "ContentItem2": "These apps run on the state-of-the-art FAB blockchain, a powerful shared global infrastructure based on the Bitcoin blockchain that can transact value and show the ownership of property.",
+        "ContentItem3": "Developers, enterprises and users can create markets, store debts or promises, move funds based on instructions given indefinitely (like a will or a futures contract) and more without a central authority or corruption risk using the blockchain. ",
+        "ContentBox": {
+          "ContentSubItem1": "Old-school server-based databases require applications to run their code and store their data in an isolated silo. This causes many issues:",
+          "ContentSubItem2": {
+            "ContentListItem1": "It makes the sharing of information in a network difficult",
+            "ContentListItem2": "Causes different network partners to have different ways of analyzing and storing data, making comparisons and reconciliation difficult",
+            "ContentListItem3": "If a single part of the network is compromised or goes offline, other partners, users and connected applications are affected"
+          }
+        },
+        "ContentItem4": "<b>On the Fast Access Blockchain, all data and transaction information is accessible, shared and reconcilable.</b> Anyone can set up a node and receive the necessary transaction history to reach consensus with other nodes.",
+        "ContentItem5": "Importantly, to speed up the network transaction processing and keep data safe, organizations can set up Annex Chains. Annex Chains allow transactions to occur between specific node groupings without slowing down the speed of the main blockchain. This system also allows for decentralized storage of data and files, so that important documents stay safe. ",
+        "ContentItem6": "For example, if you want to build a decentralized application for your supply-chain, all participants can be a part of an Annex Chain where transactions only occur between the participants. The accuracy of the transactions are still confirmed by the main blockchain, but the transaction speed is high due to the Annex chain, and important data files are not made public. "
+      },
+      "SectionOwnToken": {
+        "Title": "Your Own Token",
+        "Content": {
+          "ContentItem1": "Create your cryptotoken as a virtual share, a proof of membership or anything at all. Your token will be compatible with all FAB wallets and exchanges.",
+          "ContentItem2": "The total amount of tokens in circulation is up to you. We can help you with the process of creating your token."
+        },
+        "ExtraLink": {
+          "Text": "Create Your Token",
+          "URL": ""
+        }
+      },
+      "SectionCrowdFound": {
+        "Title": "Crowdfund",
+        "Content": {
+          "ContentItem1": "If you have an application idea you want to make a reality, you need the funds to create it. The success of crowdfunding in both the traditional world and the blockchain-based world is well documented with billions of dollars raised, you can view the largest funded blockchain projects here: https://www.bitcoinmarketjournal.com/biggest-icos/",
+          "ContentItem2": "With FAB, you can start your crowdfund for a product, shares or auction. Go beyond traditional online crowdfunding platforms and crowdfund without a central authority. Create a self-executing contract that will hold a contributor's money until a given goal is reached. When the goal is reached, funds will be released your project. If not,they returned back to the contributors. "
+        },
+        "ExtraLink": {
+          "Text": "Crowdfund",
+          "URL": ""
+        }
+      },
+      "SectionDAOs": {
+        "Title": "DAOs",
+        "Content": {
+          "ContentItem1": "Turn your organization into a decentralized autonomous organization that leaves the paperwork of your organization to an FAB smart contract. FAB smart contracts can fairly and impartially handle the shareholder voting process, handle accounts and do paperwork. Most importantly, they  are self-executing computer programs, so you can trust that it will only do what is programmed to do."
+        },
+        "ExtraLink": {
+          "Text": "Learn More",
+          "URL": "https://en.wikipedia.org/wiki/Decentralized_autonomous_organization"
+        }
+      },
+      "SectionGetStarted": {
+        "Title": "Let’s Get Started",
+        "Content": {
+          "ContentItem1": "Would your enterprise benefit from an easy- to- build, low cost, fast, scalable, and decentralized business application?",
+          "ContentItem2": "If yes, you are in the the right place. With pre-built applications and frameworks provided, you can create a secure and scalable application hassle-free that works best for your organization, partners and customers.",
+          "ContentItem3": "If you are a business with an idea you want to turn into reality, a developer with the desire to create, or are just curious about what’s involved, fill out our intake form here or contact us directly at info@fa.biz."
+        },
+        "ExtraLink": {
+          "Text": "Intake Form",
+          "URL": ""
+        }
+      },
+      "SectionTheForce": {
+        "Title": "The Force",
+        "Content": {
+          "ContentItem1": "“The Force” is a planned hard fork of the Foundation Chain scheduled for September 2018. “The Force” was announced on March 28, 2018. During  “The Force” fork, the forked chain will inherit all the data on the chain original chain and become the main chain of the network. A new coin will be created which provides more useful value to holders. All features of the coin and network are implemented at this point including SCAR, KanBan and CCUA functions.",
+          "ContentItem2": "This planned fork will not implement rapid transactions, but also implement cross-chain operation functions to interact with other blockchain networks such as Ethereum. "
+        }
+      }
+    }
+  },
+  "Help": {
+    "Top": {
+      "Title": "Help",
+      "Content": "If you can't find an answer here, email your question to info@fa.biz."
+    },
+    "SectionFAQs": {
+      "Title": "FAQ",
+      "Questions": {
+        "Question1": {
+          "Question": "Why is blockchain useful for enterprise level needs?",
+          "Answer": {
+            "Section1": "Blockchains are a shared digital ledger of data that are linked together through a network of peer to peer nodes. They allow transfers of data between peers within the network autonomously and anonymously without the use of a centralized source to verify and process the transaction or movement of information. The value for participants in the blockchain network are:",
+            "Section2": {
+              "SectionItem1": "The shared data between all participants, which holds participants accountable and prevents misdeeds",
+              "SectionItem2": "The ability to save money and time by doing the transaction without a middleman",
+              "SectionItem3": "The blocks of data stored in the blockchain can not be altered due to the network protocols, to hack the system, you would need to hack all the computers in the network",
+              "SectionItem4": "These characteristics of blockchain systems can be used to great effect in industries where all important data is immediately updated and shared to all participants easily such as a national medical records sharing system, a financial institution, or a national land title and real estate system",
+              "SectionItem5": "Construct DAO structure business - the next generation organization"
+            }
+          },
+          "ExtraLink": {
+            "Text": "Read Our Brochure",
+            "URL": "http://localhost:4200/assets/pdfs/FAB-brochure.pdf"
+          }
+        },
+        "Question2": {
+          "Question": "Is FAB just a new type of cryptocurrency?",
+          "Answer": {
+            "Section1": "FAB is a new and valuable cryptocurrency, but it is not just a cryptocurrency. The value unit in the FAB Network is the Fabcoin which will be the value basis of the system, but the main value of the project is in the uses the unique technology could have for businesses and large organizations."
+          }
+        },
+        "Question3": {
+          "Question": "Where can I get started using Fabcoin?",
+          "Answer": {
+            "Section1": "Visit our Fabcoin Pro pages to create your own wallet, start mining or even start developing. We have wallet and node software for Ubuntu and Windows desktops, as well as a Lite Wallet for all devices. You can buy Fabcoin from the Coinbene exchange as well"
+          },
+          "ExtraLink": {
+            "Text": "Visit fabcoin.pro and www.coinbene.com"
+          }
+        },
+        "Question4": {
+          "Question": "Where can I find more information about the project?",
+          "Answer": {
+            "Section1": "To find more information about FAB and blockchain in general, visit our community at <a href='https://t.me/fabtoken'>https://t.me/fabtoken</a>, read our brochure or visit the project page"
+          }
+        },
+        "Question5": {
+          "Question": "Where can I find instructions on how to run the software?",
+          "Answer": {
+            "Section1": "Visit our Technical Help section, Youtube Tutorials or <a href='http://fabcoin.pro'>http://fabcoin.pro</a> for information and guides to use FAB."
+          }
+        },
+        "Question6": {
+          "Question": "What is unique about FAB? What problem does it solves?",
+          "Answer": {
+            "Section1": "Scalability is one of the major bottlenecks in public blockchain platforms. While Bitcoin, Ethereum and similar systems have been successful as cryptocurrencies, the transactional capacities are severely limited on most of the blockchain platforms that are available. For the most part they are only capable of processing a few transactions per second while the most popular platforms are able to handle no more than seven transactions per second.<br/>There seems to be an ever increasing demand in the enterprise sector to use Blockchains for the underlying processing of business applications. This makes the quest for a solution to the transactional performance issues critical, while still maintaining the benefits gained from using blockchain platforms.<br/>FAB is a complete solution for constructing a practical public blockchain eco-system with high scalability, effective security, reliability, decentralization and the flexibility to develop multiple application types. It will allow for up to 1 million transactions per second.<br/>FAB is based upon a dedicated underlying protocolized framework design, middle layer smart contract enforcement, and an upper layer functional architecture implementation. It will allow blockchain technologies to succeed in real commercial use cases."
+          }
+        },
+        "Question7": {
+          "Question": "Why is FAB a good choice compared to BTC+Lightening Network(LN) or Ethereum+Plasma in a nutshell",
+          "Answer": {
+            "Section1": "FAB gives users the ability to use their online assets across a wide range of different transaction platforms.<br/>To completely understand the differences, we need to understand LN and Plasma's theories. To simplify: for Lightening Network a user needs to deposit some Bitcoin to his LN wallet, hold some bitcoin there, set up a channel with the other party and do transactions. There can be many transactions in the channel before clearance to bitcoin blockchain, at the final, it is only counted as one transaction to reduce main blockchain transaction volume, that make sense.<br/>Here’s an example: Let's say, eBay is a LN, Amazon is another LN: To complete transactions on either platform, the user would need different LN wallets, and hold bitcoin in both. To transfer funds from the eBay LN to the Amazon LN, it will take an extra step through a central system. This creates a centralization issue and a two step reconciliation process.The best solution for wide use LN is all vendors and users use the same LNo a centralized system.<br/>FAB is here to solve the problem. A user can use his FAB coin wallet everywhere, , no coin holding needed, no centralization.<br/>In another aspect with both Bitcoin + Lightning Network or Ethereum + Plasma their main purpose is focusing on currency transaction. Our FAB network is built ground up from protocols designed to support upper layer management frameworks to provide simple and productive interfaces for value, trust, evidence, organization management. It is not only for currency. FAB also serves full business logic and any other data that requires decentralization and sharing features."
+          }
+        },
+        "Question8": {
+          "Question": "How long will it take after to build FAB to completion?",
+          "Answer": {
+            "Section1": "The foundation blockchain mainnet was released in March. We have a functional network, users trading coin, miners verifying transactions and developers building applications already. We are in the process of completing the middleware frameworks, annex chains and application layer to give the network full functionality. The entire project will be finished towards the end of 2018. View our Roadmap."
+          }
+        },
+        "Question9": {
+          "Question": "Who is the founder? How did they come up with the technical theory for FAB?",
+          "Answer": {
+            "Section1": "Paul Liu, the founder, is an experienced IT expert with over 20 years experience in developing financial, supply-chain applications. He was the first general manager of China Unionpay Financial Network where he led and developed a series of large scale applications.<br/>In 2014, we began to research and develop a decentralized supply chain system to increase business performance as the root objective. During our intensive research process, we came to the conclusion that current blockchain networks cannot handle enterprise level applications or their transactional needs due to the scalability problem inherent in their design structure.To overcome this issue fundamental issue, the team started to develop the foundation of our blockchain with a scalability solution in mind.<br/>After three years of research and development, the FAB project was launched. Our three-in-one design scheme combines a Foundation Blockchain, Auxiliary Blockchain, and Open Storage Architecture to create the FAB system. This three-in-one design allows the constraints of each individual part of the network to be conquered, solving the scalable bottleneck and allowing ease of development. With innovations such as KanBan, SCAR and CCUA, FAB is a network built from the ground up in its structure to be fully integrated into enterprise level operations.<br/>The development goal of the FAB Foundation is to use the FAB blockchain to promote scientific and technological progress, economic growth, and strive to build a fair and trusting world."
+          }
+        },
+        "Question10": {
+          "Question": "What are the new technologies that are introduced by the white paper?",
+          "Answer": {
+            "Section1": "The Fast Access Blockchain project contains an array of breakthrough innovations including KanBan, SCAR, and CCUA. It also introduces an array of new frameworks such as UVF - universal value framework, UTF - universal trust framework, UEF - universal evidence framework, UOF - universal organization framework.<br/>All of these these technologies will bring blockchain technology to the next level Of large scale enterprise uses."
+          }
+        },
+        "Question11": {
+          "Question": "What are the next steps after FAB is built?",
+          "Answer": {
+            "Section1": "The leading principle for the Fast Access Blockchain project is to help the entire world community move forward into the future of peer to peer connection. We plan to set up a foundation to help users and developers grow developing peer to peer communities and promote our blockchain.<br/>On the business side, we have planned a series of applications based on FAB including decentralized e-commerce systems, supply-chain technology and more."
+          }
+        }
+      }
+    },
+    "SectionTechnicalHelp": {
+      "Title": "Technical Help",
+      "Questions": {
+        "Question1": {
+          "Question": "I participated in the FAB token generation event. How do I swap my ERC20 token for Fabcoin?",
+          "Answer": "Thank you for participating in our FAB Token Generation Event. To swap your ERC20 token for Fabcoin, follow these steps:</b> Sign in to the account you purchased your Fabcoin with in the website.</b> When signed in, go to Account > FAB coin You should see in your account, a checkmark beside KYC. Complete KYC if it is not there</b> In your account, enter your FAB wallet address (you can download your wallet at <a href='http://fabcoin.pro'>http://fabcoin.pro</a>)</b> Update and save the address.</b> You will see a line called ERC20 FAB Token Return Address and a line called ETH address. ETH address is the address you used to purchase the ERC20 token. Send your ERC20 tokens from your ETH address to the ERC20 FAB Token Return Address.</b> Within 24 hours after the ERC20 token is returned, you will receive your Fabcoin in your FAB wallet address that you have input into your account.</b> If you need help during this process, contact info@fa.biz or private message an admin at <a href='https://t.me/fabtoken'>."
+        },
+        "Question2": {
+          "Question": "What is the FAB testnet?",
+          "Answer": "The FAB testnet is a testing network for testing the core system development by the core team, or testing applications by application developers. The coins in the testnet are for testing purposes only, they do not have any usage or value in the mainnet and are unable to be used in the production network. Generally, the testnet includes all the features of the production network, however, it may have more and newer features compared to the production network."
+        },
+        "Question3": {
+          "Question": "What is  a testnet seed node ? How do I check the testnet state?",
+          "Answer": "FAB official testnet seeds are: 35.182.160.212 and 13.59.134.49. If you know another node’s ip, please take them for priority. To check the status of the testnet blockchain, please visit the page <a href='http://fabtest.info'>http://fabtest.info</a>."
+        },
+        "Question4": {
+          "Question": "About the FAB production network",
+          "Answer": "The FAB production network is the official FAB network. Fabcoins in the FAB production network are the official Fabcoins which are both usable and valuable, as outlined in the whitepaper. According to the FAB development plan, the FAB production network will conduct a hard fork named 'The Force' by the end of Sep. 2018. The new network after 'The Force' day will include the full features designed in the whitepaper whichwill meet enterprise grade needs."
+        },
+        "Question5": {
+          "Question": "How do I connect to the production network? How do I check the production network status?",
+          "Answer": "You can connect to FAB Foundation official seed nodes directly: 54.215.244.48 and 18.130.6.117, you may connect to any other nodes also if you know of them. To check the status of the FAB production network, please visit link: <a href='http://fabexplorer.info'>http://fabexplorer.info</a>."
+        },
+        "Question6": {
+          "Question": "What kind of wallets are available?",
+          "Answer": "We have Fabcoin Core wallets for Mac, Windows and Ubuntu desktops. We also have a lite wallet for mobile devices and a web wallet."
+        },
+        "Question7": {
+          "Question": "I'm getting a message saying 'this email already exists' when I try to sign up for the first time. Why is this happening?",
+          "Answer": "You may have previously signed up using this email address. Try to reset the password. Additionally, account credentials between FAB and Exchangily are shared. You can use your same account credentials to sign into both services."
+        }
+      }
+    },
+    "SectionManuals": {
+      "Title": "Manuals",
+      "Manuals": {
+        "Manual1": {
+          "Name": "Brief guidance for FABcoin full node configuration and mining",
+          "URL": "https://fa.biz/download/fab-mining-en.pdf"
+        },
+        "Manual2": {
+          "Name": "Brief guidance for FABcoin wallet",
+          "URL": "https://fa.biz/download/fab-wallet-en.pdf"
+        },
+        "Manual3": {
+          "Name": "Advanced installation of FABcoin Wallet",
+          "URL": "https://fa.biz/download/advanced-fab-wallet-installation-cn.pdf"
+        },
+        "Manual4": {
+          "Name": "How to send and receive FABcoins",
+          "URL": "https://fa.biz/download/how-to-send-receive-fab-cn.pdf"
+        },
+        "Manual5": {
+          "Name": "How to back up FABcoin wallet",
+          "URL": "https://fa.biz/download/how-to-back-fab-wallet-cn.pdf"
+        },
+        "Manual6": {
+          "Name": "How to set up an account on Coinbene Exchange",
+          "URL": ""
+        },
+        "Manual7": {
+          "Name": "FABcoin Mobile Wallet Guide and Help",
+          "URL": ""
+        }
+      }
+    }
+  },
+  "News & Events": {
+    "Top": {
+      "Title": "News & Events",
+      "EmptyContent": "Looks like there's nothing here yet..."
+    }
+  },
+  "SignIn": {
+    "Remember": "Remember my Email",
+    "ButtonSignIn": "Sign In with Email",
+    "ForgotPassword": "Forgot password? You can reset it here.",
+    "SignUp": {},
+    "KYC": {},
+    "Profile": {
+      "UserInfo": {
+        "Title": "",
+        "Email": ""
+      },
+      "Account": {
+        "Title": ""
+      },
+      "FAB Coin": {
+        "Title": ""
+      },
+      "My Blog": {
+        "Title": ""
+      }
+    }
+  },
+  "Form": {
+    "Email": "Email",
+    "Password": "Password",
+    "User Info": "User Info",
+    "Display Name": "Display Name",
+    "First Name": "First Name",
+    "Middle Name": "Middle Name",
+    "Last Name": "Last Name",
+    "Home Phone": "Home Phone",
+    "Work Number": "Work Number",
+    "Mobile Number": "Mobile Number",
+    "Work Email": "Work Email",
+    "Active": "Active",
+    "Member Since": "Member Since",
+    "Last Updated": "Last Updated",
+    "Account Details": "Account Details",
+    "Account": "Account",
+    "FABcoin": "FABcoin",
+    "Owner": "Owner",
+    "ETH Address": "ETH Address",
+    "FAB Address": "FAB Address",
+    "ERC20 Return Addr": "ERC20 FAB Token Return Address",
+    "TX History": "TX History",
+    "KYC": "KYC",
+    "USCitizen": "Note: US citizen or permanent resident not allowed to participate in our TGE (accredited investors excepted)",
+    "PhotoID": "Photo ID Verification",
+    "IDExample": "Example: Passport, Driver's License, Citizenship Card. Minimum 1 photo required",
+    "Verify": "Please verify all information. Once submitted, the information can not be edited.",
+    "SubmitKYC": "Submit KYC",
+    "Sign In": "Sign In",
+    "ForgotPassword": "Forgot your password? You can reset it here.",
+    "Sign Up": "Sign Up",
+    "SignUpEmail": "Sign Up with Email",
+    "Activate": "Activate",
+    "Thank You": "Thank you for signing up.",
+    "Check Inbox": "Check your inbox to activate.",
+    "Click Link": "Click on the link inside your email directly, or copy and paste the activation code below.",
+    "General": "General",
+    "Expand": "Expand",
+    "Show Less": "Show Less",
+    "Submit": "Submit",
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "Not Available": "Not Available",
+    "Edit Email": "Edit Email",
+    "Full Name": "Full Name",
+    "Confirm Password": "Confirm Password",
+    "Activation Code": "Activation Code",
+    "Activate My Account": "Activate My Account",
+    "Pay": "Pay",
+    "Amount": "Amount",
+    "FAB Quantity": "FAB Qty",
+    "Status": "Status",
+    "History": "History",
+    "Personal Member": "Personal Member",
+    "Edit": "Edit",
+    "KYCSubmission Thanks": "Thank you for submitting your KYC. It is currently under review.",
+    "Check Inbox2": "Once requested, an email containing a link to reset your password will be sent to you. Please check your inbox.",
+    "Request Password Reset": "Request Password Reset",
+    "Check Inbox3": "Check your inbox for the password reset email.",
+    "Back to Sign In": "Back to Sign In"
+  },
+  "FormErrors": {
+    "FieldRequiredError": "This field is required",
+    "ValidEmailError": "Must be valid email address",
+    "PasswordMatchError": "Passwords do not match",
+    "MinCharacterError": "Minimum of {{value}} characters required",
+    "EmailExistsError": "Email {{value}} exists already"
+  }
+}

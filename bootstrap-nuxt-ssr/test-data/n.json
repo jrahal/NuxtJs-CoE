@@ -1,0 +1,83 @@
+{
+  "story": {
+    "name": "global",
+    "created_at": "2018-09-08T19:45:18.501Z",
+    "published_at": "2018-09-08T20:02:44.808Z",
+    "alternates": [],
+    "id": 291356,
+    "uuid": "464281cd-4e1b-440e-a10b-933c22502f5b",
+    "content": {
+      "_uid": "03589d53-5c9e-43a0-83c5-de26dca3fdc6",
+      "footer": [{
+        "_uid": "05efe90f-4a9f-42a1-b458-03a6f0ddfdad",
+        "logo": "//a.storyblok.com/f/43588/311x311/6c4513854e/logo_blue.png",
+        "style": [],
+        "styles": "",
+        "component": "footer",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "nav_links": [],
+        "logo_style": [],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "",
+        "navbar_style": [],
+        "main_nav_style": [],
+        "container_style": [],
+        "second_nav_links": []
+      }],
+      "header": [{
+        "_uid": "34bbfe2d-2f36-4d96-b4e9-eb8103734477",
+        "logo": "//a.storyblok.com/f/43588/311x311/6c4513854e/logo_blue.png",
+        "style": ["navbar-expand-md"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "nav_links": [],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "",
+        "navbar_style": [],
+        "main_nav_style": [],
+        "container_style": [],
+        "second_nav_links": []
+      }],
+      "component": "Global"
+    },
+    "slug": "global",
+    "full_slug": "global",
+    "sort_by_date": null,
+    "position": -150375,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": 0,
+    "meta_data": null,
+    "group_id": "a1c7026a-d10a-4a6c-8ffb-6c9fe88e80ee"
+  }
+}

@@ -1,0 +1,1703 @@
+{
+  "story": {
+    "name": "Headers",
+    "created_at": "2018-04-10T11:20:45.683Z",
+    "published_at": "2018-04-13T17:25:56.052Z",
+    "alternates": [],
+    "id": 99530,
+    "uuid": "1bfe59a7-2357-4289-ad06-d99d81a5b64c",
+    "content": {
+      "_uid": "056e1076-a5a2-483b-a8dc-15b47b7a145d",
+      "body": [{
+        "_uid": "df629cda-5093-4677-af46-09c7306891a4",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": [],
+        "styles": "",
+        "component": "header",
+        "hide_navi": true,
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "b3c45121-4d2a-46a8-88ba-6ed151ae2f46",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "ce3d8e30-fd99-49ce-a283-35cb09408064",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "navbar_style": [],
+        "main_nav_style": [],
+        "container_style": [],
+        "second_nav_links": [],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"df629cda-5093-4677-af46-09c7306891a4\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "03cf03b2-caa9-49c1-84a1-94a64d2a8662",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": [],
+        "styles": "",
+        "component": "header",
+        "hide_navi": true,
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "4c158c79-ae9a-439a-a6ca-ca9f32d09d1f",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [],
+        "logo_style": ["ml-auto mr-auto"],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "fcfdf119-ff1c-4ef6-bf19-2b32520fa01b",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "navbar_style": [],
+        "main_nav_style": [],
+        "container_style": [],
+        "second_nav_links": [],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"03cf03b2-caa9-49c1-84a1-94a64d2a8662\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "d0eab7df-9f51-4109-abc4-fed691027275",
+        "logo": "",
+        "style": ["navbar-expand-md"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "",
+          "_uid": "b5f02b31-144e-4647-9c7e-d865884a4f3b",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "nav_links": [{
+          "_uid": "f34f138e-0ec4-44de-9bc0-865fa491990a",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "2424306c-eb55-4a3b-9f86-332fddb9f307",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"f34f138e-0ec4-44de-9bc0-865fa491990a\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "09c00f6c-8efe-48c2-880c-2cfbc164e3da",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "8a87fee2-ba53-4443-b0dd-f0a68bbf6ce9",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"09c00f6c-8efe-48c2-880c-2cfbc164e3da\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "18daa850-3f43-47de-8b67-08d306d64fa6",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "e2c5a28c-4dd8-4a0d-a7ac-1929cb6959fa",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Pricing",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"18daa850-3f43-47de-8b67-08d306d64fa6\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "dbccff0c-28a4-4762-9325-f0d83f79c784",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "b7c8c1be-2a4b-4445-9ea3-dd6a933f199c",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Team",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"dbccff0c-28a4-4762-9325-f0d83f79c784\", \"id\": \"99530\"}--\u003e"
+        }],
+        "logo_style": [],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "1f04ea7f-cc87-479b-b1d1-882c92616065",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "",
+        "navbar_style": ["navbar-expand-md"],
+        "main_nav_style": ["mr-auto", "ml-auto"],
+        "container_style": [],
+        "second_nav_links": [],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"d0eab7df-9f51-4109-abc4-fed691027275\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "a2b0ce4f-f742-4a69-8f76-07d9ea6d5387",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["navbar-expand-md"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "https://www.storyblok.com",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.storyblok.com"
+        },
+        "nav_links": [{
+          "_uid": "24e3cf9c-b1aa-45b9-97b7-946640a8eb7f",
+          "link": {
+            "id": "",
+            "url": "#",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"24e3cf9c-b1aa-45b9-97b7-946640a8eb7f\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "7531d235-3af1-4db2-9ba5-a87c6e3acf5a",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "60a32cb1-0e30-4a04-9bf2-3f2b21cd4542",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"7531d235-3af1-4db2-9ba5-a87c6e3acf5a\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "4060e4fa-0e05-4648-830b-782c6454cda6",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "bba2f970-d468-44be-b13a-6d854f177eb9",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Pricing",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"4060e4fa-0e05-4648-830b-782c6454cda6\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "6834f18f-ddb0-4258-818d-5252636ade46",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "25561f5e-b696-46c8-84ed-0cce288f2d04",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Team",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"6834f18f-ddb0-4258-818d-5252636ade46\", \"id\": \"99530\"}--\u003e"
+        }],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Button",
+        "logo_height": "30",
+        "navbar_style": ["navbar-expand-md"],
+        "main_nav_style": ["mr-auto"],
+        "container_style": [],
+        "second_nav_links": [{
+          "_uid": "49b4749b-5834-41b8-84a5-0dadc9d00ffe",
+          "icon": {
+            "_uid": "f22b4e5b-0522-414b-9fcd-f7f725faabd5",
+            "icon": "fa-slack-hash",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "b1ea8388-d917-4975-a591-0e688effdbf5",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"49b4749b-5834-41b8-84a5-0dadc9d00ffe\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "6b160617-3591-40cb-bb95-906b9cb97734",
+          "icon": {
+            "_uid": "1610fcff-fcb4-4653-b202-1fcc0525e568",
+            "icon": "fa-twitter",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "d294b3aa-e18d-4050-94c9-d43974ba54ad",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"6b160617-3591-40cb-bb95-906b9cb97734\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "69b1ad24-9af3-4650-8d8e-7dd8ad274525",
+          "icon": {
+            "_uid": "50b7deb6-e72b-45ba-b066-551ee0e839a3",
+            "icon": "fa-github",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "26b25612-3d01-45cf-a63d-9051f1d6b891",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"69b1ad24-9af3-4650-8d8e-7dd8ad274525\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"a2b0ce4f-f742-4a69-8f76-07d9ea6d5387\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "f593a894-4b41-4e4a-9ebc-8f8618cf0984",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": [],
+        "component": "header_in_columns",
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [{
+          "_uid": "e6865674-5cf6-46c3-af26-5830960081c7",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "9a517e69-7d38-439e-a179-b0c24006e08d",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"e6865674-5cf6-46c3-af26-5830960081c7\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "b85f27d7-0535-45cd-9ef7-54c5c8668264",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "4b132230-fba8-4162-ba93-90f87041b015",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"b85f27d7-0535-45cd-9ef7-54c5c8668264\", \"id\": \"99530\"}--\u003e"
+        }],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "logo_in_middle": true,
+        "main_nav_style": ["col-5"],
+        "second_nav_links": [{
+          "_uid": "1e20525e-eb55-4c3e-bc52-9434a72864e4",
+          "icon": {
+            "_uid": "749b2996-5499-4622-81e8-3f6580e6ca6a",
+            "icon": "fa-facebook-f",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "5d02aca5-fbb2-46eb-9cff-846dddceada4",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"1e20525e-eb55-4c3e-bc52-9434a72864e4\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "241219d7-b7b8-4b1c-8161-8788ac76a088",
+          "icon": {
+            "_uid": "3f59637f-2663-40bb-94bf-55372f33ad88",
+            "icon": "fa-twitter",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "1a13c33c-3113-4526-80b4-4cdaee12a5f3",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"241219d7-b7b8-4b1c-8161-8788ac76a088\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header_in_columns\", \"space\": \"43698\", \"uid\": \"f593a894-4b41-4e4a-9ebc-8f8618cf0984\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "17ec2b37-08b7-45fa-9d10-b7b144de4da8",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": [],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "https://www.storyblok.com",
+          "_uid": "5f1b7619-988a-4ed0-99a9-e4baf1a8b792",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.storyblok.com"
+        },
+        "nav_links": [{
+          "_uid": "65f2959e-502a-4782-83c4-d51b9014550a",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "6cefefc0-db6b-4f31-b7b6-5faedff3a21e",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"65f2959e-502a-4782-83c4-d51b9014550a\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "a9fecebf-4339-44c8-943d-0922268f3605",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "d9f7cfec-276d-497a-9de1-cd832039f1d2",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"a9fecebf-4339-44c8-943d-0922268f3605\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "8da3a399-937e-4f41-9280-61dcc9156917",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "e747b3f2-8322-4d36-92f9-c1c24b11d4ea",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Pricing",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"8da3a399-937e-4f41-9280-61dcc9156917\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "4b2f3e81-729d-48e0-b185-767187282b61",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "43e2e6cb-23cd-4aff-8634-c3e0fea6efcc",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Team",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"4b2f3e81-729d-48e0-b185-767187282b61\", \"id\": \"99530\"}--\u003e"
+        }],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "dec3623f-5fad-4568-adb7-e5209be424c9",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Button",
+        "logo_height": "30",
+        "navbar_style": ["navbar-expand-md"],
+        "main_nav_style": ["ml-auto"],
+        "container_style": [],
+        "second_nav_links": [],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"17ec2b37-08b7-45fa-9d10-b7b144de4da8\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "d5f728fd-6daa-440b-b244-ac03bf4e9a4b",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": [],
+        "component": "header_in_columns",
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "fc85d58c-f738-4a65-9d1e-18f9e13e042e",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [{
+          "_uid": "bb27dbc6-6c5c-4792-9634-f88272167e69",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "00b8e618-f7a3-49c3-bed0-9b5a8da0ad9f",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"bb27dbc6-6c5c-4792-9634-f88272167e69\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "ff341ea0-2449-4cb9-a6a2-f3ef63d11234",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "0db8c93e-5652-44d7-8b3d-3cbc9a409dd6",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"ff341ea0-2449-4cb9-a6a2-f3ef63d11234\", \"id\": \"99530\"}--\u003e"
+        }],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "logo_in_middle": false,
+        "main_nav_style": ["justify-content-center"],
+        "second_nav_links": [{
+          "_uid": "1479bd85-db01-471a-842f-6b8bed111375",
+          "icon": {
+            "_uid": "5dc7ee08-80c9-427b-9016-e43b7fe0eb6e",
+            "icon": "fa-facebook-f",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "977470a0-6b46-4f76-92bc-9a2f655870ef",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"1479bd85-db01-471a-842f-6b8bed111375\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "d350ad3f-67d9-4130-aff1-200eae464e6d",
+          "icon": {
+            "_uid": "4f3f33e7-adb0-4473-b482-515957a5bdf8",
+            "icon": "fa-twitter",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "28669e8b-1042-4085-94d2-62a633e1f2c3",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"d350ad3f-67d9-4130-aff1-200eae464e6d\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header_in_columns\", \"space\": \"43698\", \"uid\": \"d5f728fd-6daa-440b-b244-ac03bf4e9a4b\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "2902a75d-53e0-4b17-90f1-120fda6a2b79",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": [],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "https://www.storyblok.com",
+          "_uid": "12fa4b0d-8baf-4533-a286-28185d70b7c8",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.storyblok.com"
+        },
+        "nav_links": [{
+          "_uid": "dee7d1c3-decf-4c6f-aee3-f1c6f4220e24",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "47ed3d0b-6920-42c6-aa18-e16bc1ef63d0",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"dee7d1c3-decf-4c6f-aee3-f1c6f4220e24\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "2fc0de8b-d78a-4808-a141-a8b57274b561",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "a5b562d8-b965-4a14-ba13-1bd484063734",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"2fc0de8b-d78a-4808-a141-a8b57274b561\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "42f23e4d-dc22-4810-bebf-d88b06973e26",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "7e864a09-3673-478f-b5aa-958b76284fd8",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Pricing",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"42f23e4d-dc22-4810-bebf-d88b06973e26\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "3068299e-f55a-4081-ac02-7a91dad747f3",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "30510779-007d-4f8b-ba36-c7225679bb7f",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Team",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"3068299e-f55a-4081-ac02-7a91dad747f3\", \"id\": \"99530\"}--\u003e"
+        }],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "36817b9e-93bf-4d6e-bae8-61ca2bcc7b8f",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Button",
+        "logo_height": "30",
+        "navbar_style": ["navbar-expand-md"],
+        "main_nav_style": ["mr-auto"],
+        "container_style": [],
+        "second_nav_links": [{
+          "_uid": "4b52a5c8-eadd-4bf9-bb42-ac76cf13bf82",
+          "icon": {
+            "_uid": "3cd54dd5-3163-44f8-8e82-de6235b828d3",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "d1c5be72-6cf5-43de-a791-7746fc78207b",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Docs",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"4b52a5c8-eadd-4bf9-bb42-ac76cf13bf82\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "b11771d4-b976-4442-840e-a75789a007f5",
+          "icon": {
+            "_uid": "544aa3cf-34a4-4fae-b51a-e946fc2752b0",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "408aa532-3615-4f44-b6ad-ada90d03c2e9",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Contact",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"b11771d4-b976-4442-840e-a75789a007f5\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "41f7d7b1-0f22-4758-ba7a-99b0b2577927",
+          "icon": {
+            "_uid": "a81a3945-b91e-455d-b665-1e3148f41f89",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "f1bf6890-44d7-4ce8-959f-45229be2afb5",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Login",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"41f7d7b1-0f22-4758-ba7a-99b0b2577927\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"2902a75d-53e0-4b17-90f1-120fda6a2b79\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "d82af6bc-d8b8-4045-b617-11eece5a9ddb",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": [],
+        "component": "header_in_columns",
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "ad92c414-e960-4d8a-8765-4ca9fb08deb4",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [{
+          "_uid": "86fc449a-ab19-40c8-920e-df8d0842d9aa",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "3ea9454b-6f43-4791-9867-f605958eda8a",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"86fc449a-ab19-40c8-920e-df8d0842d9aa\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "9f55aa84-b135-40a2-a4fb-c77b422737e7",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "c766055c-a9bb-477d-8d33-48b073ed5004",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"9f55aa84-b135-40a2-a4fb-c77b422737e7\", \"id\": \"99530\"}--\u003e"
+        }],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "logo_in_middle": false,
+        "main_nav_style": ["justify-content-center"],
+        "second_nav_links": [{
+          "_uid": "d67523c6-96cd-475e-a497-ab510d63b5ec",
+          "icon": {
+            "_uid": "76e8cbc7-c2f7-4075-b713-2003d93c8785",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "name": "Log in →",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"d67523c6-96cd-475e-a497-ab510d63b5ec\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header_in_columns\", \"space\": \"43698\", \"uid\": \"d82af6bc-d8b8-4045-b617-11eece5a9ddb\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "a33aaa09-68e3-43f3-8dec-c50c29101bdf",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": [],
+        "component": "header_in_columns",
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "eea518ef-0d3a-4e49-9290-0af0f853dc52",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [{
+          "_uid": "6818ca2a-92e3-4791-9702-797a0d95d0be",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "b368f8d8-316f-4e1a-b8cf-cf3580bbec03",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"6818ca2a-92e3-4791-9702-797a0d95d0be\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "eeb71ad9-ca22-44f8-83d7-241b4b02af75",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "83a1fa19-9e3f-41dd-bd7b-df1abbf7e36c",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"eeb71ad9-ca22-44f8-83d7-241b4b02af75\", \"id\": \"99530\"}--\u003e"
+        }],
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Register",
+        "logo_height": "30",
+        "logo_in_middle": false,
+        "main_nav_style": ["justify-content-center"],
+        "second_nav_links": [{
+          "_uid": "5bb22aa7-d011-49f0-8f70-ae715100c7cf",
+          "icon": {
+            "_uid": "d3a43338-fa7c-4c6a-98b0-0d8eb289fa30",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "name": "Login",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"5bb22aa7-d011-49f0-8f70-ae715100c7cf\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header_in_columns\", \"space\": \"43698\", \"uid\": \"a33aaa09-68e3-43f3-8dec-c50c29101bdf\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "a3356528-d640-4e66-8f7b-a3938becc59e",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": true,
+        "logo_link": {
+          "id": "",
+          "url": "https://www.storyblok.com",
+          "_uid": "6fce8a8b-e577-44ea-9d50-19c7aeffd987",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.storyblok.com"
+        },
+        "nav_links": [],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "5db2fdea-0a80-41a6-ab6a-67f5914a3aa9",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "navbar_style": [],
+        "main_nav_style": [],
+        "container_style": [],
+        "second_nav_links": [],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"a3356528-d640-4e66-8f7b-a3938becc59e\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "b97d96a0-165c-4a9d-b44a-fa67d59fdd7e",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": true,
+        "logo_link": {
+          "id": "",
+          "url": "https://www.storyblok.com",
+          "_uid": "c1c02df6-78ee-4383-9517-a2307d0068c0",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.storyblok.com"
+        },
+        "nav_links": [],
+        "logo_style": ["ml-auto mr-auto"],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "9075e6cb-de5d-4a57-9331-a8d1d822ac35",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "navbar_style": [],
+        "main_nav_style": [],
+        "container_style": [],
+        "second_nav_links": [],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"b97d96a0-165c-4a9d-b44a-fa67d59fdd7e\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "2d8bfd3a-ea13-49b7-bcc9-1387389099b0",
+        "logo": "",
+        "style": ["bg-dark"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "",
+          "_uid": "8d461382-70ae-45f7-b0d0-e8577eea7f53",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "nav_links": [{
+          "_uid": "cbfc2e65-cc80-4ffe-9234-7020e77920fd",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "69992db0-ae53-448e-a01c-2cd6e875adb8",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"cbfc2e65-cc80-4ffe-9234-7020e77920fd\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "fe55db50-076e-44d3-90e8-5469dc0cde33",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "c0fe0629-17e1-47c3-ba4a-a51cce07102c",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"fe55db50-076e-44d3-90e8-5469dc0cde33\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "e4daeccc-ed44-4edf-9745-4df42809ffca",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "cfd168b1-2422-41d3-b20d-ba9dde653251",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Pricing",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"e4daeccc-ed44-4edf-9745-4df42809ffca\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "09f87a0e-1bcb-4587-aafb-41e4dc36e6e1",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "64bcb417-1ef5-4bf6-9f54-1e72dae6795f",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Team",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"09f87a0e-1bcb-4587-aafb-41e4dc36e6e1\", \"id\": \"99530\"}--\u003e"
+        }],
+        "logo_style": [],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "27acec1b-e595-420a-a789-1bc6afb754c7",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "",
+        "navbar_style": ["navbar-expand-md"],
+        "main_nav_style": ["mr-auto", "ml-auto"],
+        "container_style": [],
+        "second_nav_links": [],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"2d8bfd3a-ea13-49b7-bcc9-1387389099b0\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "27d4c4c2-7404-47fe-8b44-eb7cc4c93e4c",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "https://www.storyblok.com",
+          "_uid": "696ea16b-d7de-4001-978d-63eda5b3810d",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.storyblok.com"
+        },
+        "nav_links": [{
+          "_uid": "8f639924-9e79-44e2-bdba-dbf77340c7be",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "48be4c6c-2850-4d6a-a67e-2bd177252ec6",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"8f639924-9e79-44e2-bdba-dbf77340c7be\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "ff520f44-4f65-416f-a7b4-0c18556915c1",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "70e2bd22-0fb2-45b8-b3e7-04d84e88928a",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"ff520f44-4f65-416f-a7b4-0c18556915c1\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "d16372a4-9e80-4684-820e-6d620d61994b",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "0e521950-b0ed-4624-b669-976b9e51a6ab",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Pricing",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"d16372a4-9e80-4684-820e-6d620d61994b\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "1663c463-294c-4d1b-89f9-6f0ab34b1ff9",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "6c8726e0-7156-4fec-a41d-98bc009981c8",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Team",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"1663c463-294c-4d1b-89f9-6f0ab34b1ff9\", \"id\": \"99530\"}--\u003e"
+        }],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "78258694-fe14-48c9-b8dd-8577076ef13a",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Button",
+        "logo_height": "30",
+        "navbar_style": ["navbar-expand-md"],
+        "main_nav_style": ["mr-auto"],
+        "container_style": [],
+        "second_nav_links": [{
+          "_uid": "00b28457-b68f-4c7f-94e7-91197da8dcec",
+          "icon": {
+            "_uid": "0f812c5e-9acc-479b-8f57-1cd0680a6066",
+            "icon": "fa-slack-hash",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "5ec4efee-4cc6-4be3-8a9b-3eb3263d7c2a",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"00b28457-b68f-4c7f-94e7-91197da8dcec\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "efacb74f-02ab-494f-bd3f-fcc6dccbb28b",
+          "icon": {
+            "_uid": "7254e4e5-8900-4f64-b139-70b6b4f4de2d",
+            "icon": "fa-twitter",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "fb9cc34b-c1cb-426a-9e03-09fc47211646",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"efacb74f-02ab-494f-bd3f-fcc6dccbb28b\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "45880422-e445-4b46-8252-bef39dd8db52",
+          "icon": {
+            "_uid": "ab334d18-8ab9-4937-9474-9244773a9016",
+            "icon": "fa-github",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "3f503276-f4da-4961-8326-b226592bd143",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"45880422-e445-4b46-8252-bef39dd8db52\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"27d4c4c2-7404-47fe-8b44-eb7cc4c93e4c\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "1f4a3a4e-2cd2-4d2e-be3d-c2cfe19ee609",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "component": "header_in_columns",
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "90d30bdc-06e1-4384-a1b9-d10424e775e1",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [{
+          "_uid": "96f636c5-f2d8-4576-90ed-51c42f207921",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "dc2116b6-d902-49a3-b122-dfb19f7e016e",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"96f636c5-f2d8-4576-90ed-51c42f207921\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "8674ba0d-ad3f-4438-b9a3-a373f8e66551",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "591801c0-02bc-4eeb-b99b-a6d5ae2e0afb",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"8674ba0d-ad3f-4438-b9a3-a373f8e66551\", \"id\": \"99530\"}--\u003e"
+        }],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "d37587c5-70a1-4365-9728-f3a69eff4155",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "logo_in_middle": true,
+        "main_nav_style": ["col-5"],
+        "second_nav_links": [{
+          "_uid": "db854efb-9408-4355-9e20-8be91359b443",
+          "icon": {
+            "_uid": "2e07737e-6c12-4142-9505-e51b94696e0a",
+            "icon": "fa-facebook-f",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "d9689a41-eb25-49e9-a58b-fac5f33bf618",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"db854efb-9408-4355-9e20-8be91359b443\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "c8b9c02d-fe55-4b2d-b93c-46bf1e842b72",
+          "icon": {
+            "_uid": "658e37a5-ab24-4973-a751-d4ef1626b154",
+            "icon": "fa-twitter",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "a4715b7d-bf7f-40c9-bc8b-c18ddaf905fa",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"c8b9c02d-fe55-4b2d-b93c-46bf1e842b72\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header_in_columns\", \"space\": \"43698\", \"uid\": \"1f4a3a4e-2cd2-4d2e-be3d-c2cfe19ee609\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "d3effecb-6cd8-4a07-b2e7-74a8e6285543",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "https://www.storyblok.com",
+          "_uid": "caea2f27-473b-482f-9b0d-75a7106acbd2",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.storyblok.com"
+        },
+        "nav_links": [{
+          "_uid": "250c3b6d-2e42-4eea-908f-6a57a77f1f79",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "0ca26aa9-60c3-4741-963c-eee9406c9ef5",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"250c3b6d-2e42-4eea-908f-6a57a77f1f79\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "d0ba4bdc-1170-463b-a2eb-2e1cab30a23f",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "7d5bb65e-4d1c-4393-94d8-ed392e0e57b1",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"d0ba4bdc-1170-463b-a2eb-2e1cab30a23f\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "a6dc4ae0-852b-4513-afc2-b113288ee86f",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "01be1696-e7c7-47cc-bf85-712217029cc7",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Pricing",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"a6dc4ae0-852b-4513-afc2-b113288ee86f\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "4751cf3b-d70a-4044-82ab-00131985f759",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "9989c52a-b7a5-4bd0-a5c3-ece5db50e201",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Team",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"4751cf3b-d70a-4044-82ab-00131985f759\", \"id\": \"99530\"}--\u003e"
+        }],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "af5f3dd8-1fdf-4eed-8269-f7ce31f0e147",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Button",
+        "logo_height": "30",
+        "navbar_style": ["navbar-expand-md"],
+        "main_nav_style": ["ml-auto"],
+        "container_style": [],
+        "second_nav_links": [],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"d3effecb-6cd8-4a07-b2e7-74a8e6285543\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "101e0542-f556-4906-8b4d-cab4f46f8b18",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "component": "header_in_columns",
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "4a175433-50c7-4cf3-88ca-26b50d20ae2d",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [{
+          "_uid": "b28081f6-346c-4e1e-b415-4169f35e1b2e",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "86d250d6-3be0-41a6-a08d-d04929daac11",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"b28081f6-346c-4e1e-b415-4169f35e1b2e\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "3a5bf464-ef6f-477f-b720-8e7aeead3ee3",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "e4f04274-88b8-4a46-968b-0805a2e24956",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"3a5bf464-ef6f-477f-b720-8e7aeead3ee3\", \"id\": \"99530\"}--\u003e"
+        }],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "3367bd38-25f3-45b3-938e-019f64775ada",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "logo_in_middle": false,
+        "main_nav_style": ["justify-content-center"],
+        "second_nav_links": [{
+          "_uid": "6da638f6-f149-4759-a52a-21b896a6cb8e",
+          "icon": {
+            "_uid": "c23cfe7f-e7c1-4f54-91ab-60af0584465c",
+            "icon": "fa-facebook-f",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "6ce49f25-9230-4464-a463-64fcd9cdb161",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"6da638f6-f149-4759-a52a-21b896a6cb8e\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "c6bd270b-d2b9-4c7e-966b-ab9bec0a46bd",
+          "icon": {
+            "_uid": "e9951f4d-f600-4a76-953e-f9585039fe8b",
+            "icon": "fa-twitter",
+            "type": "fab",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "66db4e98-c328-46fa-b636-6e717a72115b",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"c6bd270b-d2b9-4c7e-966b-ab9bec0a46bd\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header_in_columns\", \"space\": \"43698\", \"uid\": \"101e0542-f556-4906-8b4d-cab4f46f8b18\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "95a70323-36eb-46d3-abda-344833db6439",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "styles": "",
+        "component": "header",
+        "hide_navi": false,
+        "logo_link": {
+          "id": "",
+          "url": "https://www.storyblok.com",
+          "_uid": "cb86b42d-1da4-483f-956b-afd7b1fe4722",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "https://www.storyblok.com"
+        },
+        "nav_links": [{
+          "_uid": "ef7279e0-1d91-40ff-91e6-6afc55d06f1a",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "e6d6e90a-1ac2-47bc-b20e-4a3ae038dcb3",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"ef7279e0-1d91-40ff-91e6-6afc55d06f1a\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "8a1c0817-d19d-4fbd-84a1-abeb58c43ee2",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "f6f0c491-c732-40dc-b04d-1887a67493a3",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"8a1c0817-d19d-4fbd-84a1-abeb58c43ee2\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "598709c9-efe3-43e7-9c7f-a52d76d552c3",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "a81011f8-b92d-4825-8802-cd81af545eb1",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Pricing",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"598709c9-efe3-43e7-9c7f-a52d76d552c3\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "b0e9d759-385e-4e59-a9ce-db236d0cd3da",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "5d545a94-685c-4c19-ab00-9101b4560d9b",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Team",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"b0e9d759-385e-4e59-a9ce-db236d0cd3da\", \"id\": \"99530\"}--\u003e"
+        }],
+        "logo_style": ["navbar-brand"],
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "061cf49c-f9dc-4ba0-95f5-97877123e3f0",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Button",
+        "logo_height": "30",
+        "navbar_style": ["navbar-expand-md"],
+        "main_nav_style": ["mr-auto"],
+        "container_style": [],
+        "second_nav_links": [{
+          "_uid": "c1322446-4f93-4148-9f44-0a85fb9d2bb6",
+          "icon": {
+            "_uid": "e11f62bd-bf63-42f4-b5b1-32261636b46f",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "18ea58ef-64ab-42c8-bea8-93f7ff8e5943",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Docs",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"c1322446-4f93-4148-9f44-0a85fb9d2bb6\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "8bd9c73b-d96d-4231-b6fd-32df6333df38",
+          "icon": {
+            "_uid": "bfcaff6b-de6e-4316-b286-d4b23f70ca84",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "a0b65875-b223-45e1-b069-a5a961224aef",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Contact",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"8bd9c73b-d96d-4231-b6fd-32df6333df38\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "e08f8d38-3a35-4929-9352-78e430926a80",
+          "icon": {
+            "_uid": "969637c7-85f7-4092-8abc-0edd9f323020",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "3f2fe0f4-5f24-4a3b-a9cb-515c5ffe5ad8",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Login",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"e08f8d38-3a35-4929-9352-78e430926a80\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header\", \"space\": \"43698\", \"uid\": \"95a70323-36eb-46d3-abda-344833db6439\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "9155b82d-a401-4bdc-a9e0-157b20553809",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "component": "header_in_columns",
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "4b8fab82-abe9-4d32-b78d-3bb247d9f008",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [{
+          "_uid": "9c74802c-480a-4bb1-9cab-4402a2ac9925",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "3fdc4eda-3620-4c50-8147-367eb2e0e78b",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"9c74802c-480a-4bb1-9cab-4402a2ac9925\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "22933c5b-b92b-42fb-ac04-1eccfad8d53f",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "7f1160fe-9056-4dd8-b836-12192ab35ea6",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"22933c5b-b92b-42fb-ac04-1eccfad8d53f\", \"id\": \"99530\"}--\u003e"
+        }],
+        "button_link": {
+          "id": "",
+          "url": "",
+          "_uid": "b9108f54-395d-4638-9371-f5ce1e2ffdb1",
+          "linktype": "story",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "button_text": "",
+        "logo_height": "30",
+        "logo_in_middle": false,
+        "main_nav_style": ["justify-content-center"],
+        "second_nav_links": [{
+          "_uid": "3a11766b-7392-4300-b8f3-de8f2c3089b1",
+          "icon": {
+            "_uid": "99c54e5e-dc91-404d-af1f-d40aeb3d99f0",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "",
+            "_uid": "c4236beb-36b7-4c95-a71d-0f1673956eb4",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "name": "Log in →",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"3a11766b-7392-4300-b8f3-de8f2c3089b1\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header_in_columns\", \"space\": \"43698\", \"uid\": \"9155b82d-a401-4bdc-a9e0-157b20553809\", \"id\": \"99530\"}--\u003e"
+      }, {
+        "_uid": "1d0836fd-5ed3-400d-8b24-abbe5736224d",
+        "logo": "//a.storyblok.com/f/43698/437x202/371b07400b/img_logo_new.png",
+        "style": ["bg-dark"],
+        "component": "header_in_columns",
+        "logo_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "d204a3aa-2e76-4e54-bd29-03d279f04342",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "nav_links": [{
+          "_uid": "1d69a9bb-a466-4eda-9a2b-5c046e7bda48",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "8cee3607-c927-4150-9e65-d93aeb6ba047",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Home",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"1d69a9bb-a466-4eda-9a2b-5c046e7bda48\", \"id\": \"99530\"}--\u003e"
+        }, {
+          "_uid": "b3b0c770-41a7-4f06-a117-19c955e169fd",
+          "link": {
+            "id": "",
+            "url": "#",
+            "_uid": "9f9c2bb5-c99e-4e1e-a81f-ece03926c10d",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#"
+          },
+          "name": "Features",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"b3b0c770-41a7-4f06-a117-19c955e169fd\", \"id\": \"99530\"}--\u003e"
+        }],
+        "button_link": {
+          "id": "",
+          "url": "#",
+          "_uid": "79487058-857d-4ea2-a454-31d342d5b637",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "#"
+        },
+        "button_text": "Register",
+        "logo_height": "30",
+        "logo_in_middle": false,
+        "main_nav_style": ["justify-content-center"],
+        "second_nav_links": [{
+          "_uid": "7f205150-c6b9-43ec-92b7-5303d1cdefac",
+          "icon": {
+            "_uid": "e884ef0b-19b2-4625-800b-ba8d7d2f06c2",
+            "icon": "",
+            "type": "fas",
+            "plugin": "fontawesome-selector"
+          },
+          "link": {
+            "id": "",
+            "url": "",
+            "_uid": "aef12b9a-6d98-4904-a956-5ee7dd04e79a",
+            "linktype": "story",
+            "fieldtype": "multilink",
+            "cached_url": ""
+          },
+          "name": "Login",
+          "component": "nav_item",
+          "_editable": "\u003c!--#storyblok#{\"name\": \"nav_item\", \"space\": \"43698\", \"uid\": \"7f205150-c6b9-43ec-92b7-5303d1cdefac\", \"id\": \"99530\"}--\u003e"
+        }],
+        "_editable": "\u003c!--#storyblok#{\"name\": \"header_in_columns\", \"space\": \"43698\", \"uid\": \"1d0836fd-5ed3-400d-8b24-abbe5736224d\", \"id\": \"99530\"}--\u003e"
+      }],
+      "component": "blank",
+      "_editable": "\u003c!--#storyblok#{\"name\": \"blank\", \"space\": \"43698\", \"uid\": \"056e1076-a5a2-483b-a8dc-15b47b7a145d\", \"id\": \"99530\"}--\u003e"
+    },
+    "slug": "headers",
+    "full_slug": "blocks/headers",
+    "sort_by_date": null,
+    "position": 10,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": 100379,
+    "meta_data": null,
+    "group_id": "5ff70820-2e99-4ebd-b7a2-ad89d15af531"
+  }
+}

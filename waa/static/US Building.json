@@ -1,0 +1,20 @@
+{
+  "sheet": "US Building",
+  "data": {
+    "Total U.S.": [
+      242614.2857142857,
+      328455.6731834904,
+      20584714
+    ],
+    "": [
+      "Source: RealPage",
+      "Source: Hoyt Advisory Services",
+      "Source: NMHC tabulations of 2016 American Community Survey microdata."
+    ]
+  },
+  "labels": [
+    "2011-2017 New Supply Average (Units)",
+    "units needed per year",
+    "Apartment units"
+  ]
+}

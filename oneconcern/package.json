@@ -1,0 +1,47 @@
+{
+  "name": "oneconcern",
+  "version": "1.0.0",
+  "description": "Artificial Intelligence platform for Disasters",
+  "author": "kevin olson <acidjazz@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "cash": "node operations/cache.js",
+    "production": "yarn cash; yarn generate; node operations/aeonian.js production",
+    "staging": "yarn cash; yarn generate; node operations/aeonian.js staging",
+    "development": "yarn cash; yarn generate; node operations/aeonian.js dev",
+    "test": "echo No tests yet"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0-rc.2",
+    "@nuxtjs/component-cache": "^1.1.2",
+    "@nuxtjs/proxy": "^1.2.4",
+    "aeonian": "^1.1.3",
+    "babel": "^6.23.0",
+    "contentful": "^6.1.2",
+    "countup.js": "^1.9.3",
+    "dotenv": "^6.0.0",
+    "nuxt": "^1.4.2",
+    "pug": "^2.0.3",
+    "speakingurl": "^14.0.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-carousel": "^0.10.0",
+    "vue-countup-v2": "^1.0.3",
+    "vue-flickity": "^1.1.2",
+    "vue-in-viewport-directive": "^1.1.4",
+    "vue-in-viewport-mixin": "^1.0.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.2.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.0",
+    "eslint-plugin-vue": "^4.7.1"
+  }
+}
